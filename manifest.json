@@ -1,0 +1,2025 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-22T18:23:14+00:00",
+  "baseUrl": "https://raw.githubusercontent.com/bilalelsayed97/adhan_sounds/main/",
+  "partTemplates": {
+    "android": "android/{fileName}/{fileName}_{n}.mp3",
+    "ios": "ios/{fileName}/{fileName}_{n}.caf"
+  },
+  "sounds": [
+    {
+      "id": "120",
+      "fileName": "mashary_2010",
+      "titleAr": "مشاري راشد (كامل)",
+      "titleEn": "Mashary Rashed (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "mashary_2010.mp3",
+        "bytes": 857299
+      },
+      "android": {
+        "bytes": 339736
+      },
+      "ios": {
+        "bytes": 993553
+      }
+    },
+    {
+      "id": "121",
+      "fileName": "mashary_fagr_2010",
+      "titleAr": "أذان الفجر - مشاري راشد (كامل)",
+      "titleEn": "Fajr Azan (Full) - Mashary Rashed",
+      "type": "adhan_fajr",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "mashary_fagr_2010.mp3",
+        "bytes": 2701195
+      },
+      "android": {
+        "bytes": 2698184
+      },
+      "ios": {
+        "bytes": 1998684
+      }
+    },
+    {
+      "id": "42",
+      "fileName": "nasser_ktamy_1",
+      "titleAr": "ناصر القطامي 1 (كامل)",
+      "titleEn": "Nasser El-Katamy V1 (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "nasser_ktamy_1.mp3",
+        "bytes": 358803
+      },
+      "android": {
+        "bytes": 180704
+      },
+      "ios": {
+        "bytes": 756162
+      }
+    },
+    {
+      "id": "16",
+      "fileName": "adhan_makkah",
+      "titleAr": "أذان مكة المكرمة (كامل)",
+      "titleEn": "Makkah Azan (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "adhan_makkah.mp3",
+        "bytes": 203440
+      },
+      "android": {
+        "bytes": 405141
+      },
+      "ios": {
+        "bytes": 1179724
+      }
+    },
+    {
+      "id": "25",
+      "fileName": "ahmed_neenaa",
+      "titleAr": "احمد نعينع (كامل)",
+      "titleEn": "ahmed ne'ena' (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "ahmed_neenaa.mp3",
+        "bytes": 2899613
+      },
+      "android": {
+        "bytes": 2902775
+      },
+      "ios": {
+        "bytes": 2151530
+      }
+    },
+    {
+      "id": "13",
+      "fileName": "fajr_mecca",
+      "titleAr": "اذان الفجر : مكة المكرمة (كامل)",
+      "titleEn": "Fajr mecca (Full)",
+      "type": "adhan_fajr",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_mecca.mp3",
+        "bytes": 3130726
+      },
+      "android": {
+        "bytes": 592618
+      },
+      "ios": {
+        "bytes": 1667137
+      }
+    },
+    {
+      "id": "38",
+      "fileName": "fares_abbad",
+      "titleAr": "فارس عباد (كامل)",
+      "titleEn": "Fares Abbad (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "fares_abbad.mp3",
+        "bytes": 2833344
+      },
+      "android": {
+        "bytes": 2835527
+      },
+      "ios": {
+        "bytes": 2103182
+      }
+    },
+    {
+      "id": "49",
+      "fileName": "shaaban_alsayad",
+      "titleAr": "آذان الشيخ شعبان الصياد (كامل)",
+      "titleEn": "Azan Shaaban Alsayad (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "shaaban_alsayad.mp3",
+        "bytes": 2494367
+      },
+      "android": {
+        "bytes": 3400204
+      },
+      "ios": {
+        "bytes": 2519664
+      }
+    },
+    {
+      "id": "48",
+      "fileName": "mohamed_omran",
+      "titleAr": "آذان الشيخ محمد عمران (كامل)",
+      "titleEn": "Azan Mohammed Omran (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mohamed_omran.mp3",
+        "bytes": 4451402
+      },
+      "android": {
+        "bytes": 2969507
+      },
+      "ios": {
+        "bytes": 2200728
+      }
+    },
+    {
+      "id": "70",
+      "fileName": "taha_alfashn_2",
+      "titleAr": "طه الفشن 2 (كامل)",
+      "titleEn": "Taha alfashn 2 (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "taha_alfashn_2.mp3",
+        "bytes": 2696196
+      },
+      "android": {
+        "bytes": 2891951
+      },
+      "ios": {
+        "bytes": 2144492
+      }
+    },
+    {
+      "id": "51",
+      "fileName": "saad_alghamdy",
+      "titleAr": "سعد الغامدي (كامل)",
+      "titleEn": "Saad Alghamdy (Full)",
+      "type": "adhan",
+      "parts": 4,
+      "rev": 1,
+      "preview": {
+        "url": "saad_alghamdy.mp3",
+        "bytes": 2293350
+      },
+      "android": {
+        "bytes": 1853493
+      },
+      "ios": {
+        "bytes": 1371760
+      }
+    },
+    {
+      "id": "61",
+      "fileName": "dubai_tv_azan",
+      "titleAr": "أذان قناة دبي (كامل)",
+      "titleEn": "Dubai Tv Azan (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "dubai_tv_azan.mp3",
+        "bytes": 2523988
+      },
+      "android": {
+        "bytes": 2816597
+      },
+      "ios": {
+        "bytes": 2088936
+      }
+    },
+    {
+      "id": "26",
+      "fileName": "naqshbandy",
+      "titleAr": "سيد النقشبندي (كامل)",
+      "titleEn": "Sayed El-Naqshabandy (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "naqshbandy.mp3",
+        "bytes": 294549
+      },
+      "android": {
+        "bytes": 160668
+      },
+      "ios": {
+        "bytes": 673206
+      }
+    },
+    {
+      "id": "60",
+      "fileName": "hazzaa_albaloshy",
+      "titleAr": "هزاع البلوشي (كامل)",
+      "titleEn": "Hazzaa Albaloshy (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "hazzaa_albaloshy.mp3",
+        "bytes": 3528344
+      },
+      "android": {
+        "bytes": 2804337
+      },
+      "ios": {
+        "bytes": 2079994
+      }
+    },
+    {
+      "id": "50",
+      "fileName": "islam_sobhey",
+      "titleAr": "آذان القارئ إسلام صبحي (كامل)",
+      "titleEn": "Azan Islam sobhey (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "islam_sobhey.mp3",
+        "bytes": 4156114
+      },
+      "android": {
+        "bytes": 2772303
+      },
+      "ios": {
+        "bytes": 2052438
+      }
+    },
+    {
+      "id": "40",
+      "fileName": "nasser_ktamy_2",
+      "titleAr": "ناصر القطامي 2 (كامل)",
+      "titleEn": "Nasser El-Katamy V2 (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "nasser_ktamy_2.mp3",
+        "bytes": 1144575
+      },
+      "android": {
+        "bytes": 2154345
+      },
+      "ios": {
+        "bytes": 1595224
+      }
+    },
+    {
+      "id": "24",
+      "fileName": "abdul_majed_sarehy",
+      "titleAr": "عبد المجيد السريحي (كامل)",
+      "titleEn": "Abdul Majed Sarehy (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "abdul_majed_sarehy.mp3",
+        "bytes": 3326117
+      },
+      "android": {
+        "bytes": 3328727
+      },
+      "ios": {
+        "bytes": 2467780
+      }
+    },
+    {
+      "id": "20",
+      "fileName": "mnshawi",
+      "titleAr": "محمد صديق المنشاوي (كامل)",
+      "titleEn": "Mohamed Seddik El-Menshawi (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "mnshawi.mp3",
+        "bytes": 237238
+      },
+      "android": {
+        "bytes": 473466
+      },
+      "ios": {
+        "bytes": 1378134
+      }
+    },
+    {
+      "id": "2",
+      "fileName": "ahmed_alagamy",
+      "titleAr": "احمد بن علي العجمي (كامل)",
+      "titleEn": "ahmed alagmy (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "ahmed_alagamy.mp3",
+        "bytes": 3161162
+      },
+      "android": {
+        "bytes": 2108657
+      },
+      "ios": {
+        "bytes": 1562822
+      }
+    },
+    {
+      "id": "15",
+      "fileName": "faroq_hadrawy",
+      "titleAr": "فاروق حضراوي (كامل)",
+      "titleEn": "Faroq 7adrawy (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "faroq_hadrawy.mp3",
+        "bytes": 2948701
+      },
+      "android": {
+        "bytes": 2949630
+      },
+      "ios": {
+        "bytes": 2186720
+      }
+    },
+    {
+      "id": "41",
+      "fileName": "fajr_almadena",
+      "titleAr": "اذان الفجر : المدينة المنورة (كامل)",
+      "titleEn": "fajr Almadena (Full)",
+      "type": "adhan_fajr",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_almadena.mp3",
+        "bytes": 3516652
+      },
+      "android": {
+        "bytes": 665824
+      },
+      "ios": {
+        "bytes": 1872832
+      }
+    },
+    {
+      "id": "19",
+      "fileName": "alhusary",
+      "titleAr": "محمود خليل الحصري (كامل)",
+      "titleEn": "Alhussary (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "alhusary.mp3",
+        "bytes": 2041522
+      },
+      "android": {
+        "bytes": 386551
+      },
+      "ios": {
+        "bytes": 1086400
+      }
+    },
+    {
+      "id": "62",
+      "fileName": "abdel_nasser_hark",
+      "titleAr": "عبد الناصر حرك (كامل)",
+      "titleEn": "Abdel Nasser Hark (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "abdel_nasser_hark.mp3",
+        "bytes": 4504788
+      },
+      "android": {
+        "bytes": 3494663
+      },
+      "ios": {
+        "bytes": 2588820
+      }
+    },
+    {
+      "id": "27",
+      "fileName": "mohamed_refaat",
+      "titleAr": "محمد رفعت (كامل)",
+      "titleEn": "Mohamed Refaat (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "mohamed_refaat.mp3",
+        "bytes": 407680
+      },
+      "android": {
+        "bytes": 614020
+      },
+      "ios": {
+        "bytes": 1733050
+      }
+    },
+    {
+      "id": "57",
+      "fileName": "sherif_moustafa",
+      "titleAr": "شريف مصطفى (كامل)",
+      "titleEn": "Sherif Moustafa (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "sherif_moustafa.mp3",
+        "bytes": 4423058
+      },
+      "android": {
+        "bytes": 3417608
+      },
+      "ios": {
+        "bytes": 2532108
+      }
+    },
+    {
+      "id": "17",
+      "fileName": "mahmoud_ali_albanna",
+      "titleAr": "محمود علي البنا (كامل)",
+      "titleEn": "Mahmoud Ali Albanna (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "mahmoud_ali_albanna.mp3",
+        "bytes": 2634243
+      },
+      "android": {
+        "bytes": 496398
+      },
+      "ios": {
+        "bytes": 1400946
+      }
+    },
+    {
+      "id": "30",
+      "fileName": "yasser_aldosary",
+      "titleAr": "ياسر الدوسري (كامل)",
+      "titleEn": "Yasser Aldosary (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "yasser_aldosary.mp3",
+        "bytes": 2835079
+      },
+      "android": {
+        "bytes": 1067611
+      },
+      "ios": {
+        "bytes": 2104032
+      }
+    },
+    {
+      "id": "32",
+      "fileName": "fajr_abd_albaset",
+      "titleAr": "اذان فجر عبد الباسط عبد الصمد (كامل)",
+      "titleEn": "Fajr Abd Elbasset abd alsamad (Full)",
+      "type": "adhan_fajr",
+      "parts": 10,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_abd_albaset.mp3",
+        "bytes": 4587519
+      },
+      "android": {
+        "bytes": 4590457
+      },
+      "ios": {
+        "bytes": 3399820
+      }
+    },
+    {
+      "id": "52",
+      "fileName": "meshary_alafasy_new",
+      "titleAr": "مشاري العفاسي جديد (كامل)",
+      "titleEn": "Meshary Alafasy new (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "meshary_alafasy_new.mp3",
+        "bytes": 2783262
+      },
+      "android": {
+        "bytes": 2974760
+      },
+      "ios": {
+        "bytes": 2204400
+      }
+    },
+    {
+      "id": "11",
+      "fileName": "adhan_alaqsa",
+      "titleAr": "أذان الأقصى (كامل)",
+      "titleEn": "Al-Aqsa Azan (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "adhan_alaqsa.mp3",
+        "bytes": 227263
+      },
+      "android": {
+        "bytes": 453166
+      },
+      "ios": {
+        "bytes": 1319492
+      }
+    },
+    {
+      "id": "53",
+      "fileName": "mansour_zahrani",
+      "titleAr": "منصور الزهراني (كامل)",
+      "titleEn": "Mansour alzahrani (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mansour_zahrani.mp3",
+        "bytes": 1896422
+      },
+      "android": {
+        "bytes": 2970263
+      },
+      "ios": {
+        "bytes": 2200796
+      }
+    },
+    {
+      "id": "9",
+      "fileName": "fajr_khaled_aljohaim",
+      "titleAr": "اذان الفجر بصوت: خالد الجهيم (كامل)",
+      "titleEn": "Fajr Khaled Aljohaim (Full)",
+      "type": "adhan_fajr",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_khaled_aljohaim.mp3",
+        "bytes": 3820981
+      },
+      "android": {
+        "bytes": 3822832
+      },
+      "ios": {
+        "bytes": 2833874
+      }
+    },
+    {
+      "id": "33",
+      "fileName": "mohamed_omran_fajr",
+      "titleAr": "اذان الفجر بصوت: محمد عمران (كامل)",
+      "titleEn": "alfajr Mohamed Omran (Full)",
+      "type": "adhan_fajr",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mohamed_omran_fajr.mp3",
+        "bytes": 2844025
+      },
+      "android": {
+        "bytes": 2847187
+      },
+      "ios": {
+        "bytes": 2110832
+      }
+    },
+    {
+      "id": "55",
+      "fileName": "ibrahim_altayeb",
+      "titleAr": "اذان دكتور ابراهيم الطيب (كامل)",
+      "titleEn": "Dr.Ibrahim Altayeb (Full)",
+      "type": "adhan",
+      "parts": 10,
+      "rev": 1,
+      "preview": {
+        "url": "ibrahim_altayeb.mp3",
+        "bytes": 4945748
+      },
+      "android": {
+        "bytes": 4287453
+      },
+      "ios": {
+        "bytes": 3176984
+      }
+    },
+    {
+      "id": "63",
+      "fileName": "mohamed_refaat_2",
+      "titleAr": "محمد رفعت 2 (كامل)",
+      "titleEn": "Mohammed refaat 2 (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "mohamed_refaat_2.mp3",
+        "bytes": 2461349
+      },
+      "android": {
+        "bytes": 3725448
+      },
+      "ios": {
+        "bytes": 2762440
+      }
+    },
+    {
+      "id": "14",
+      "fileName": "alsrehy_masjed_qeba",
+      "titleAr": "الشيخ السريحي مسجد قباء (كامل)",
+      "titleEn": "Al srehy Masjed Qeba' (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "alsrehy_masjed_qeba.mp3",
+        "bytes": 3428423
+      },
+      "android": {
+        "bytes": 3432519
+      },
+      "ios": {
+        "bytes": 2542750
+      }
+    },
+    {
+      "id": "31",
+      "fileName": "ahmed_alnufais",
+      "titleAr": "احمد النفيس (كامل)",
+      "titleEn": "Ahmed alnufais (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "ahmed_alnufais.mp3",
+        "bytes": 5139154
+      },
+      "android": {
+        "bytes": 3428353
+      },
+      "ios": {
+        "bytes": 2540506
+      }
+    },
+    {
+      "id": "35",
+      "fileName": "nasr_aldeen_tobar_fajr",
+      "titleAr": "اذان الفجر بصوت : نصر الدين طوبار (كامل)",
+      "titleEn": "Fajr Nasr Aldeen Tobar (Full)",
+      "type": "adhan_fajr",
+      "parts": 10,
+      "rev": 1,
+      "preview": {
+        "url": "nasr_aldeen_tobar_fajr.mp3",
+        "bytes": 4237316
+      },
+      "android": {
+        "bytes": 4240548
+      },
+      "ios": {
+        "bytes": 3143392
+      }
+    },
+    {
+      "id": "36",
+      "fileName": "mecca_ali_mulla",
+      "titleAr": "الحرم المكي علي ملا (كامل)",
+      "titleEn": "Mecca Ali Mulla (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mecca_ali_mulla.mp3",
+        "bytes": 3247002
+      },
+      "android": {
+        "bytes": 3289971
+      },
+      "ios": {
+        "bytes": 2396942
+      }
+    },
+    {
+      "id": "39",
+      "fileName": "saad_alghamdy_2",
+      "titleAr": "سعد الغامدى (كامل)",
+      "titleEn": "Saa'd Alghamdy (Full)",
+      "type": "adhan",
+      "parts": 4,
+      "rev": 1,
+      "preview": {
+        "url": "saad_alghamdy_2.mp3",
+        "bytes": 1836972
+      },
+      "android": {
+        "bytes": 1837656
+      },
+      "ios": {
+        "bytes": 1360642
+      }
+    },
+    {
+      "id": "12",
+      "fileName": "mansour_alsalmy",
+      "titleAr": "منصور السالمي (كامل)",
+      "titleEn": "Mansour Alsalmy (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "mansour_alsalmy.mp3",
+        "bytes": 2385843
+      },
+      "android": {
+        "bytes": 2388403
+      },
+      "ios": {
+        "bytes": 1771326
+      }
+    },
+    {
+      "id": "43",
+      "fileName": "muhammed_altablawy",
+      "titleAr": "محمد محمود الطبلاوي (كامل)",
+      "titleEn": "Muhammed Altablawy (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "muhammed_altablawy.mp3",
+        "bytes": 3021978
+      },
+      "android": {
+        "bytes": 757842
+      },
+      "ios": {
+        "bytes": 2212960
+      }
+    },
+    {
+      "id": "22",
+      "fileName": "abu_alainein_shesha",
+      "titleAr": "ابو العينين شعيشع (كامل)",
+      "titleEn": "Abu Alaineen she'sha' (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "abu_alainein_shesha.mp3",
+        "bytes": 3760623
+      },
+      "android": {
+        "bytes": 3764738
+      },
+      "ios": {
+        "bytes": 2790116
+      }
+    },
+    {
+      "id": "10",
+      "fileName": "yasser_aldosary_fajr",
+      "titleAr": "اذان الفجر بصوت : ياسر الدوسري (كامل)",
+      "titleEn": "Alfajr Yasser Aldosary (Full)",
+      "type": "adhan_fajr",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "yasser_aldosary_fajr.mp3",
+        "bytes": 2925889
+      },
+      "android": {
+        "bytes": 2929093
+      },
+      "ios": {
+        "bytes": 2170808
+      }
+    },
+    {
+      "id": "67",
+      "fileName": "ahmed_alnafees_2",
+      "titleAr": "احمد النفيس (كامل)",
+      "titleEn": "Ahmed Alnafees (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "ahmed_alnafees_2.mp3",
+        "bytes": 3989969
+      },
+      "android": {
+        "bytes": 3389993
+      },
+      "ios": {
+        "bytes": 2513034
+      }
+    },
+    {
+      "id": "59",
+      "fileName": "mohammed_tarek",
+      "titleAr": "المنشد محمد طارق (كامل)",
+      "titleEn": "Mohammed tarek (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "mohammed_tarek.mp3",
+        "bytes": 2206564
+      },
+      "android": {
+        "bytes": 2412048
+      },
+      "ios": {
+        "bytes": 1788734
+      }
+    },
+    {
+      "id": "18",
+      "fileName": "abdel_basit",
+      "titleAr": "عبد الباسط عبد الصمد (كامل)",
+      "titleEn": "Abdel Basit Abdulsamad (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "abdel_basit.mp3",
+        "bytes": 207723
+      },
+      "android": {
+        "bytes": 414079
+      },
+      "ios": {
+        "bytes": 1205040
+      }
+    },
+    {
+      "id": "34",
+      "fileName": "ragheb_ghalosh",
+      "titleAr": "راغب مصطفي غلوش (كامل)",
+      "titleEn": "ragheb mostafa ghalosh (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "ragheb_ghalosh.mp3",
+        "bytes": 2133086
+      },
+      "android": {
+        "bytes": 2135433
+      },
+      "ios": {
+        "bytes": 1582100
+      }
+    },
+    {
+      "id": "66",
+      "fileName": "fajr_abdel_nasser_harak",
+      "titleAr": "اذان الفجر عبد الناصر حرك (كامل)",
+      "titleEn": "Fajr Abdel nasser harak (Full)",
+      "type": "adhan_fajr",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_abdel_nasser_harak.mp3",
+        "bytes": 2259589
+      },
+      "android": {
+        "bytes": 3861285
+      },
+      "ios": {
+        "bytes": 2862026
+      }
+    },
+    {
+      "id": "23",
+      "fileName": "youssef_maaty",
+      "titleAr": "يوسف معاطي (كامل)",
+      "titleEn": "youssef Ma'aty (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "youssef_maaty.mp3",
+        "bytes": 3979431
+      },
+      "android": {
+        "bytes": 3990852
+      },
+      "ios": {
+        "bytes": 2956886
+      }
+    },
+    {
+      "id": "7",
+      "fileName": "mansour_alzahrany",
+      "titleAr": "منصور الزهراني (كامل)",
+      "titleEn": "Mansour Alzahrany (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "mansour_alzahrany.mp3",
+        "bytes": 2604302
+      },
+      "android": {
+        "bytes": 2605397
+      },
+      "ios": {
+        "bytes": 1930752
+      }
+    },
+    {
+      "id": "3",
+      "fileName": "abdel_rahman_osey",
+      "titleAr": "عبد الرحمن العوسي (كامل)",
+      "titleEn": "abdel rahman el osey (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "abdel_rahman_osey.mp3",
+        "bytes": 1888471
+      },
+      "android": {
+        "bytes": 1889816
+      },
+      "ios": {
+        "bytes": 1402478
+      }
+    },
+    {
+      "id": "46",
+      "fileName": "alafasy_fajr_mecca",
+      "titleAr": "العفاسي اذان فجر مكة (كامل)",
+      "titleEn": "Alafasy Fajr Mecca (Full)",
+      "type": "adhan_fajr",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "alafasy_fajr_mecca.mp3",
+        "bytes": 6157477
+      },
+      "android": {
+        "bytes": 3676767
+      },
+      "ios": {
+        "bytes": 2722474
+      }
+    },
+    {
+      "id": "47",
+      "fileName": "alafasy_azan_mecca",
+      "titleAr": "العفاسي آذان مكة (كامل)",
+      "titleEn": "Alafasy azan mecca (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "alafasy_azan_mecca.mp3",
+        "bytes": 5234051
+      },
+      "android": {
+        "bytes": 3125168
+      },
+      "ios": {
+        "bytes": 2314696
+      }
+    },
+    {
+      "id": "6",
+      "fileName": "adhan_egypt",
+      "titleAr": "أذان مصر (كامل)",
+      "titleEn": "Egypt Azan (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "adhan_egypt.mp3",
+        "bytes": 184996
+      },
+      "android": {
+        "bytes": 368249
+      },
+      "ios": {
+        "bytes": 1071699
+      }
+    },
+    {
+      "id": "8",
+      "fileName": "azan_alquds",
+      "titleAr": "اذان القدس (كامل)",
+      "titleEn": "Azan Alquds (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "azan_alquds.mp3",
+        "bytes": 2916956
+      },
+      "android": {
+        "bytes": 548918
+      },
+      "ios": {
+        "bytes": 1550003
+      }
+    },
+    {
+      "id": "44",
+      "fileName": "ahmed_saqr",
+      "titleAr": "احمد صقر * صدقة جارية (كامل)",
+      "titleEn": "ahmed saqr (Sadqa Jareia) (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "ahmed_saqr.mp3",
+        "bytes": 3211819
+      },
+      "android": {
+        "bytes": 3213282
+      },
+      "ios": {
+        "bytes": 2379602
+      }
+    },
+    {
+      "id": "28",
+      "fileName": "aly_mahmoud",
+      "titleAr": "الشيخ علي محمود (كامل)",
+      "titleEn": "Aly Mahmoud (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "aly_mahmoud.mp3",
+        "bytes": 2393881
+      },
+      "android": {
+        "bytes": 2396608
+      },
+      "ios": {
+        "bytes": 1777140
+      }
+    },
+    {
+      "id": "45",
+      "fileName": "mohammed_mahmoud_ramadan",
+      "titleAr": "محمد محمود رمضان (كامل)",
+      "titleEn": "Mohammed Mahmoud Ramadan (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "mohammed_mahmoud_ramadan.mp3",
+        "bytes": 6653459
+      },
+      "android": {
+        "bytes": 3962451
+      },
+      "ios": {
+        "bytes": 2781956
+      }
+    },
+    {
+      "id": "5",
+      "fileName": "edres_abkar",
+      "titleAr": "إدريس ابكر (كامل)",
+      "titleEn": "Edres abkar (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "edres_abkar.mp3",
+        "bytes": 2012605
+      },
+      "android": {
+        "bytes": 2013950
+      },
+      "ios": {
+        "bytes": 1493258
+      }
+    },
+    {
+      "id": "58",
+      "fileName": "mahmoud_alkhosht",
+      "titleAr": "محمود محمد الخشت (كامل)",
+      "titleEn": "Mahmoud Alkhosht (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mahmoud_alkhosht.mp3",
+        "bytes": 2544849
+      },
+      "android": {
+        "bytes": 3133167
+      },
+      "ios": {
+        "bytes": 2320442
+      }
+    },
+    {
+      "id": "64",
+      "fileName": "abdel_azem_zaher",
+      "titleAr": "عبد العظيم زاهر (كامل)",
+      "titleEn": "Abdel Azem Zaher (Full)",
+      "type": "adhan",
+      "parts": 6,
+      "rev": 1,
+      "preview": {
+        "url": "abdel_azem_zaher.mp3",
+        "bytes": 2288914
+      },
+      "android": {
+        "bytes": 2728277
+      },
+      "ios": {
+        "bytes": 2020614
+      }
+    },
+    {
+      "id": "37",
+      "fileName": "nasr_eldeen_toubar",
+      "titleAr": "نصر الدين طوبار (كامل)",
+      "titleEn": "Nasr eldeen Toubar (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "nasr_eldeen_toubar.mp3",
+        "bytes": 3534786
+      },
+      "android": {
+        "bytes": 3537038
+      },
+      "ios": {
+        "bytes": 2619964
+      }
+    },
+    {
+      "id": "56",
+      "fileName": "wadee_alyamani",
+      "titleAr": "وديع اليمني (كامل)",
+      "titleEn": "wadee Alyamani (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "wadee_alyamani.mp3",
+        "bytes": 3909844
+      },
+      "android": {
+        "bytes": 3205518
+      },
+      "ios": {
+        "bytes": 2373074
+      }
+    },
+    {
+      "id": "4",
+      "fileName": "hamad_aldghriry",
+      "titleAr": "حمد الدغريري (كامل)",
+      "titleEn": "Hamad El-Daghriry (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "hamad_aldghriry.mp3",
+        "bytes": 900199
+      },
+      "android": {
+        "bytes": 1515221
+      },
+      "ios": {
+        "bytes": 2244860
+      }
+    },
+    {
+      "id": "29",
+      "fileName": "almadena_almonawra",
+      "titleAr": "اذان المدينة المنورة (كامل)",
+      "titleEn": "Azan Almadena (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "almadena_almonawra.mp3",
+        "bytes": 3006248
+      },
+      "android": {
+        "bytes": 565742
+      },
+      "ios": {
+        "bytes": 1597313
+      }
+    },
+    {
+      "id": "68",
+      "fileName": "abdel_rahman_alhendy",
+      "titleAr": "عبد الرحمن الهندي (كامل)",
+      "titleEn": "Abdel rahman alhendy (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "abdel_rahman_alhendy.mp3",
+        "bytes": 1019468
+      },
+      "android": {
+        "bytes": 2065978
+      },
+      "ios": {
+        "bytes": 1531746
+      }
+    },
+    {
+      "id": "1",
+      "fileName": "kamel_youssef_albahtemy",
+      "titleAr": "كامل يوسف البهتيمى (كامل)",
+      "titleEn": "kamel youssef albahtemy (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "kamel_youssef_albahtemy.mp3",
+        "bytes": 1935398
+      },
+      "android": {
+        "bytes": 1937769
+      },
+      "ios": {
+        "bytes": 1437362
+      }
+    },
+    {
+      "id": "54",
+      "fileName": "abdul_majed_sarehy_2",
+      "titleAr": "عبد المجيد سريحي (كامل)",
+      "titleEn": "Abdul majed Sarehy (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "abdul_majed_sarehy_2.mp3",
+        "bytes": 5639701
+      },
+      "android": {
+        "bytes": 4106098
+      },
+      "ios": {
+        "bytes": 3040288
+      }
+    },
+    {
+      "id": "21",
+      "fileName": "mostafa_ismaeel",
+      "titleAr": "مصطفي اسماعيل (كامل)",
+      "titleEn": "Mostafa Ismaeel (Full)",
+      "type": "adhan",
+      "parts": 7,
+      "rev": 1,
+      "preview": {
+        "url": "mostafa_ismaeel.mp3",
+        "bytes": 2946002
+      },
+      "android": {
+        "bytes": 1475026
+      },
+      "ios": {
+        "bytes": 2184068
+      }
+    },
+    {
+      "id": "69",
+      "fileName": "taha_alfashn_1",
+      "titleAr": "طه الفشن حجاز (كامل)",
+      "titleEn": "Taha alfashn 1 (Full)",
+      "type": "adhan",
+      "parts": 5,
+      "rev": 1,
+      "preview": {
+        "url": "taha_alfashn_1.mp3",
+        "bytes": 1915493
+      },
+      "android": {
+        "bytes": 2162109
+      },
+      "ios": {
+        "bytes": 1602092
+      }
+    },
+    {
+      "id": "65",
+      "fileName": "abdullah_alzelee",
+      "titleAr": "عبد الله الزيلعي (كامل)",
+      "titleEn": "Abdullah Alzelee (Full)",
+      "type": "adhan",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "abdullah_alzelee.mp3",
+        "bytes": 4801569
+      },
+      "android": {
+        "bytes": 3977895
+      },
+      "ios": {
+        "bytes": 2947332
+      }
+    },
+    {
+      "id": "122",
+      "fileName": "after_azan_shaarawy",
+      "titleAr": "بعد الأذان - الشعراوي (كامل)",
+      "titleEn": "After Adhan - Shaarawy (Full)",
+      "type": "after_adhan",
+      "parts": 3,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/after_azan_shaarawy.mp3",
+        "bytes": 232206
+      },
+      "android": {
+        "bytes": 281442
+      },
+      "ios": {
+        "bytes": 832130
+      }
+    },
+    {
+      "id": "123",
+      "fileName": "after_azan_shaarawy_short",
+      "titleAr": "بعد الأذان - الشعراوي (قصير)",
+      "titleEn": "After Adhan - Shaarawy (Short)",
+      "type": "after_adhan",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/after_azan_shaarawy_short.mp3",
+        "bytes": 65461
+      },
+      "android": {
+        "bytes": 76817
+      },
+      "ios": {
+        "bytes": 227510
+      }
+    },
+    {
+      "id": "124",
+      "fileName": "after_azan_short",
+      "titleAr": "بعد الأذان (قصير)",
+      "titleEn": "After Adhan (Short)",
+      "type": "after_adhan",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/after_azan_short.mp3",
+        "bytes": 56525
+      },
+      "android": {
+        "bytes": 73996
+      },
+      "ios": {
+        "bytes": 219282
+      }
+    },
+    {
+      "id": "125",
+      "fileName": "ali_mola",
+      "titleAr": "علي مولا",
+      "titleEn": "Ali Mola",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/ali_mola.mp3",
+        "bytes": 121325
+      },
+      "android": {
+        "bytes": 120725
+      },
+      "ios": {
+        "bytes": 91782
+      }
+    },
+    {
+      "id": "126",
+      "fileName": "alsalah_khair_mn_alnowm",
+      "titleAr": "الصلاة خير من النوم",
+      "titleEn": "Prayer is Better Than Sleep",
+      "type": "fajr_soon",
+      "parts": 2,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/alsalah_khair_mn_alnowm.mp3",
+        "bytes": 585402
+      },
+      "android": {
+        "bytes": 110490
+      },
+      "ios": {
+        "bytes": 317762
+      }
+    },
+    {
+      "id": "127",
+      "fileName": "asrnow",
+      "titleAr": "تذكير العصر",
+      "titleEn": "Asr Reminder",
+      "type": "asr_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/asrnow.mp3",
+        "bytes": 30905
+      },
+      "android": {
+        "bytes": 11928
+      },
+      "ios": {
+        "bytes": 20688
+      }
+    },
+    {
+      "id": "128",
+      "fileName": "asrsoon",
+      "titleAr": "العصر قريباً",
+      "titleEn": "Asr Soon",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/asrsoon.mp3",
+        "bytes": 70248
+      },
+      "android": {
+        "bytes": 46645
+      },
+      "ios": {
+        "bytes": 37756
+      }
+    },
+    {
+      "id": "129",
+      "fileName": "asrsoon_old",
+      "titleAr": "العصر قريباً (قديم)",
+      "titleEn": "Asr Soon (Old)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/asrsoon_old.mp3",
+        "bytes": 168357
+      },
+      "android": {
+        "bytes": 48311
+      },
+      "ios": {
+        "bytes": 74204
+      }
+    },
+    {
+      "id": "130",
+      "fileName": "azan_fagr_abdnaser_harak",
+      "titleAr": "أذان الفجر - عبد الناصر حارك (كامل)",
+      "titleEn": "Fajr Adhan - Abdnaser Harak (Full)",
+      "type": "adhan_fajr",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/azan_fagr_abdnaser_harak.mp3",
+        "bytes": 1226154
+      },
+      "android": {
+        "bytes": 3867549
+      },
+      "ios": {
+        "bytes": 2862026
+      }
+    },
+    {
+      "id": "131",
+      "fileName": "azan_saad_ghamdy",
+      "titleAr": "أذان سعد الغامدي (كامل)",
+      "titleEn": "Adhan Saad Ghamdy (Full)",
+      "type": "adhan",
+      "parts": 4,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/azan_saad_ghamdy.mp3",
+        "bytes": 954891
+      },
+      "android": {
+        "bytes": 1840162
+      },
+      "ios": {
+        "bytes": 1360642
+      }
+    },
+    {
+      "id": "132",
+      "fileName": "bird1",
+      "titleAr": "صوت طيور 1",
+      "titleEn": "Bird Sound 1",
+      "type": "sunrise",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/bird1.mp3",
+        "bytes": 7775
+      },
+      "android": {
+        "bytes": 7775
+      },
+      "ios": {
+        "bytes": 25346
+      }
+    },
+    {
+      "id": "133",
+      "fileName": "bird2",
+      "titleAr": "صوت طيور 2",
+      "titleEn": "Bird Sound 2",
+      "type": "sunrise",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/bird2.mp3",
+        "bytes": 7880
+      },
+      "android": {
+        "bytes": 7880
+      },
+      "ios": {
+        "bytes": 25822
+      }
+    },
+    {
+      "id": "134",
+      "fileName": "eshaanow",
+      "titleAr": "تذكير العشاء",
+      "titleEn": "Isha Reminder",
+      "type": "isha_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/eshaanow.mp3",
+        "bytes": 27974
+      },
+      "android": {
+        "bytes": 12764
+      },
+      "ios": {
+        "bytes": 22048
+      }
+    },
+    {
+      "id": "135",
+      "fileName": "eshaasoon",
+      "titleAr": "العشاء قريباً",
+      "titleEn": "Isha Soon",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/eshaasoon.mp3",
+        "bytes": 93444
+      },
+      "android": {
+        "bytes": 62109
+      },
+      "ios": {
+        "bytes": 48908
+      }
+    },
+    {
+      "id": "136",
+      "fileName": "eshaasoon_old",
+      "titleAr": "العشاء قريباً (قديم)",
+      "titleEn": "Isha Soon (Old)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/eshaasoon_old.mp3",
+        "bytes": 148690
+      },
+      "android": {
+        "bytes": 42877
+      },
+      "ios": {
+        "bytes": 66248
+      }
+    },
+    {
+      "id": "137",
+      "fileName": "fagenow",
+      "titleAr": "تذكير الفجر",
+      "titleEn": "Fajr Reminder",
+      "type": "fajr_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fagenow.mp3",
+        "bytes": 25736
+      },
+      "android": {
+        "bytes": 9839
+      },
+      "ios": {
+        "bytes": 17832
+      }
+    },
+    {
+      "id": "138",
+      "fileName": "fagrsoon",
+      "titleAr": "الفجر قريباً",
+      "titleEn": "Fajr Soon",
+      "type": "fajr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fagrsoon.mp3",
+        "bytes": 66486
+      },
+      "android": {
+        "bytes": 44137
+      },
+      "ios": {
+        "bytes": 35716
+      }
+    },
+    {
+      "id": "139",
+      "fileName": "fagrsoon_old",
+      "titleAr": "الفجر قريباً (قديم)",
+      "titleEn": "Fajr Soon (Old)",
+      "type": "fajr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fagrsoon_old.mp3",
+        "bytes": 175671
+      },
+      "android": {
+        "bytes": 50401
+      },
+      "ios": {
+        "bytes": 77264
+      }
+    },
+    {
+      "id": "140",
+      "fileName": "gom3anow",
+      "titleAr": "تذكير الجمعة",
+      "titleEn": "Jumuah Reminder",
+      "type": "jumuah_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/gom3anow.mp3",
+        "bytes": 25159
+      },
+      "android": {
+        "bytes": 10466
+      },
+      "ios": {
+        "bytes": 18614
+      }
+    },
+    {
+      "id": "141",
+      "fileName": "gom3asoon",
+      "titleAr": "الجمعة قريباً",
+      "titleEn": "Jumuah Soon",
+      "type": "jumuah_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/gom3asoon.mp3",
+        "bytes": 71502
+      },
+      "android": {
+        "bytes": 47481
+      },
+      "ios": {
+        "bytes": 38164
+      }
+    },
+    {
+      "id": "142",
+      "fileName": "gom3asoon_old",
+      "titleAr": "الجمعة قريباً (قديم)",
+      "titleEn": "Jumuah Soon (Old)",
+      "type": "jumuah_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/gom3asoon_old.mp3",
+        "bytes": 153728
+      },
+      "android": {
+        "bytes": 61696
+      },
+      "ios": {
+        "bytes": 48806
+      }
+    },
+    {
+      "id": "143",
+      "fileName": "hosary_1",
+      "titleAr": "الحصري 1",
+      "titleEn": "Hosary 1",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/hosary_1.mp3",
+        "bytes": 69513
+      },
+      "android": {
+        "bytes": 68924
+      },
+      "ios": {
+        "bytes": 53974
+      }
+    },
+    {
+      "id": "144",
+      "fileName": "hosary_2",
+      "titleAr": "الحصري 2",
+      "titleEn": "Hosary 2",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/hosary_2.mp3",
+        "bytes": 139730
+      },
+      "android": {
+        "bytes": 139141
+      },
+      "ios": {
+        "bytes": 105314
+      }
+    },
+    {
+      "id": "145",
+      "fileName": "kahf",
+      "titleAr": "سورة الكهف",
+      "titleEn": "Surah Al-Kahf",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/kahf.mp3",
+        "bytes": 340578
+      },
+      "android": {
+        "bytes": 277776
+      },
+      "ios": {
+        "bytes": 206804
+      }
+    },
+    {
+      "id": "146",
+      "fileName": "madina_eqama",
+      "titleAr": "إقامة المدينة",
+      "titleEn": "Madina Iqama",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/madina_eqama.mp3",
+        "bytes": 113476
+      },
+      "android": {
+        "bytes": 76085
+      },
+      "ios": {
+        "bytes": 114902
+      }
+    },
+    {
+      "id": "147",
+      "fileName": "maghribnow",
+      "titleAr": "تذكير المغرب",
+      "titleEn": "Maghrib Reminder",
+      "type": "maghrib_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/maghribnow.mp3",
+        "bytes": 31114
+      },
+      "android": {
+        "bytes": 12555
+      },
+      "ios": {
+        "bytes": 21572
+      }
+    },
+    {
+      "id": "148",
+      "fileName": "maghribsoon",
+      "titleAr": "المغرب قريباً",
+      "titleEn": "Maghrib Soon",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/maghribsoon.mp3",
+        "bytes": 65859
+      },
+      "android": {
+        "bytes": 43719
+      },
+      "ios": {
+        "bytes": 35478
+      }
+    },
+    {
+      "id": "149",
+      "fileName": "maghribsoon_old",
+      "titleAr": "المغرب قريباً (قديم)",
+      "titleEn": "Maghrib Soon (Old)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/maghribsoon_old.mp3",
+        "bytes": 162505
+      },
+      "android": {
+        "bytes": 46639
+      },
+      "ios": {
+        "bytes": 71756
+      }
+    },
+    {
+      "id": "150",
+      "fileName": "makka_eqama",
+      "titleAr": "إقامة مكة",
+      "titleEn": "Makka Iqama",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/makka_eqama.mp3",
+        "bytes": 99840
+      },
+      "android": {
+        "bytes": 49772
+      },
+      "ios": {
+        "bytes": 75972
+      }
+    },
+    {
+      "id": "151",
+      "fileName": "noti_nabi",
+      "titleAr": "صلى الله عليه وسلم",
+      "titleEn": "Prophet Notification",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/noti_nabi.mp3",
+        "bytes": 225826
+      },
+      "android": {
+        "bytes": 45385
+      },
+      "ios": {
+        "bytes": 69920
+      }
+    },
+    {
+      "id": "152",
+      "fileName": "qyam_mashary",
+      "titleAr": "قيام مشاري",
+      "titleEn": "Qiyam Mashary",
+      "type": "qiyam_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/qyam_mashary.mp3",
+        "bytes": 116898
+      },
+      "android": {
+        "bytes": 32905
+      },
+      "ios": {
+        "bytes": 98072
+      }
+    },
+    {
+      "id": "153",
+      "fileName": "zohrnow",
+      "titleAr": "تذكير الظهر",
+      "titleEn": "Dhuhr Reminder",
+      "type": "dhuhr_now",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/zohrnow.mp3",
+        "bytes": 27146
+      },
+      "android": {
+        "bytes": 10674
+      },
+      "ios": {
+        "bytes": 18818
+      }
+    },
+    {
+      "id": "154",
+      "fileName": "zohrsoon",
+      "titleAr": "الظهر قريباً",
+      "titleEn": "Dhuhr Soon",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/zohrsoon.mp3",
+        "bytes": 71502
+      },
+      "android": {
+        "bytes": 47481
+      },
+      "ios": {
+        "bytes": 38164
+      }
+    },
+    {
+      "id": "155",
+      "fileName": "zohrsoon_old",
+      "titleAr": "الظهر قريباً (قديم)",
+      "titleEn": "Dhuhr Soon (Old)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/zohrsoon_old.mp3",
+        "bytes": 186642
+      },
+      "android": {
+        "bytes": 53535
+      },
+      "ios": {
+        "bytes": 81854
+      }
+    }
+  ]
+}
