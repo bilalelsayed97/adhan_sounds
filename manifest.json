@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T18:23:14+00:00",
+  "generatedAt": "2026-10-14T18:01:19+00:00",
   "baseUrl": "https://raw.githubusercontent.com/bilalelsayed97/adhan_sounds/main/",
   "partTemplates": {
     "android": "android/{fileName}/{fileName}_{n}.mp3",
@@ -2019,6 +2019,2001 @@
       },
       "ios": {
         "bytes": 81854
+      }
+    },
+    {
+      "id": "156",
+      "fileName": "salahNaby_1_ar",
+      "titleAr": "الصلاة على النبي (عربي)",
+      "titleEn": "Salawat (Arabic)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_ar.mp3",
+        "bytes": 22076
+      },
+      "android": {
+        "bytes": 55341
+      },
+      "ios": {
+        "bytes": 84098
+      }
+    },
+    {
+      "id": "157",
+      "fileName": "salahNaby_1_en",
+      "titleAr": "الصلاة على النبي (إنجليزي)",
+      "titleEn": "Salawat (English)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_en.mp3",
+        "bytes": 24973
+      },
+      "android": {
+        "bytes": 59185
+      },
+      "ios": {
+        "bytes": 46970
+      }
+    },
+    {
+      "id": "158",
+      "fileName": "salahNaby_1_fa",
+      "titleAr": "الصلاة على النبي (فارسي)",
+      "titleEn": "Salawat (Persian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_fa.mp3",
+        "bytes": 34893
+      },
+      "android": {
+        "bytes": 138861
+      },
+      "ios": {
+        "bytes": 105076
+      }
+    },
+    {
+      "id": "159",
+      "fileName": "salahNaby_1_fr",
+      "titleAr": "الصلاة على النبي (فرنسي)",
+      "titleEn": "Salawat (French)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_fr.mp3",
+        "bytes": 30622
+      },
+      "android": {
+        "bytes": 71306
+      },
+      "ios": {
+        "bytes": 55844
+      }
+    },
+    {
+      "id": "160",
+      "fileName": "salahNaby_1_id",
+      "titleAr": "الصلاة على النبي (إندونيسي)",
+      "titleEn": "Salawat (Indonesian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_id.mp3",
+        "bytes": 40639
+      },
+      "android": {
+        "bytes": 97219
+      },
+      "ios": {
+        "bytes": 74816
+      }
+    },
+    {
+      "id": "161",
+      "fileName": "salahNaby_1_ru",
+      "titleAr": "الصلاة على النبي (روسي)",
+      "titleEn": "Salawat (Russian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_ru.mp3",
+        "bytes": 27421
+      },
+      "android": {
+        "bytes": 27812
+      },
+      "ios": {
+        "bytes": 44216
+      }
+    },
+    {
+      "id": "162",
+      "fileName": "salahNaby_1_tr",
+      "titleAr": "الصلاة على النبي (تركي)",
+      "titleEn": "Salawat (Turkish)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_1_tr.mp3",
+        "bytes": 20972
+      },
+      "android": {
+        "bytes": 34221
+      },
+      "ios": {
+        "bytes": 53328
+      }
+    },
+    {
+      "id": "163",
+      "fileName": "salahNaby_m_1_ar",
+      "titleAr": "الصلاة على النبي بصوت رجالي (عربي)",
+      "titleEn": "Salawat, male voice (Arabic)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_ar.mp3",
+        "bytes": 32241
+      },
+      "android": {
+        "bytes": 94293
+      },
+      "ios": {
+        "bytes": 72402
+      }
+    },
+    {
+      "id": "164",
+      "fileName": "salahNaby_m_1_en",
+      "titleAr": "الصلاة على النبي بصوت رجالي (إنجليزي)",
+      "titleEn": "Salawat, male voice (English)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_en.mp3",
+        "bytes": 28147
+      },
+      "android": {
+        "bytes": 68798
+      },
+      "ios": {
+        "bytes": 54008
+      }
+    },
+    {
+      "id": "165",
+      "fileName": "salahNaby_m_1_fa",
+      "titleAr": "الصلاة على النبي بصوت رجالي (فارسي)",
+      "titleEn": "Salawat, male voice (Persian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_fa.mp3",
+        "bytes": 34893
+      },
+      "android": {
+        "bytes": 138861
+      },
+      "ios": {
+        "bytes": 105076
+      }
+    },
+    {
+      "id": "166",
+      "fileName": "salahNaby_m_1_fr",
+      "titleAr": "الصلاة على النبي بصوت رجالي (فرنسي)",
+      "titleEn": "Salawat, male voice (French)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_fr.mp3",
+        "bytes": 34813
+      },
+      "android": {
+        "bytes": 84680
+      },
+      "ios": {
+        "bytes": 65636
+      }
+    },
+    {
+      "id": "167",
+      "fileName": "salahNaby_m_1_id",
+      "titleAr": "الصلاة على النبي بصوت رجالي (إندونيسي)",
+      "titleEn": "Salawat, male voice (Indonesian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_id.mp3",
+        "bytes": 43530
+      },
+      "android": {
+        "bytes": 106832
+      },
+      "ios": {
+        "bytes": 81854
+      }
+    },
+    {
+      "id": "168",
+      "fileName": "salahNaby_m_1_ru",
+      "titleAr": "الصلاة على النبي بصوت رجالي (روسي)",
+      "titleEn": "Salawat, male voice (Russian)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_ru.mp3",
+        "bytes": 31600
+      },
+      "android": {
+        "bytes": 31991
+      },
+      "ios": {
+        "bytes": 50336
+      }
+    },
+    {
+      "id": "169",
+      "fileName": "salahNaby_m_1_tr",
+      "titleAr": "الصلاة على النبي بصوت رجالي (تركي)",
+      "titleEn": "Salawat, male voice (Turkish)",
+      "type": "salah_nabi_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/salahNaby_m_1_tr.mp3",
+        "bytes": 19892
+      },
+      "android": {
+        "bytes": 31917
+      },
+      "ios": {
+        "bytes": 49928
+      }
+    },
+    {
+      "id": "170",
+      "fileName": "doha_1_ar",
+      "titleAr": "تذكير الضحى (عربي)",
+      "titleEn": "Duha reminder (Arabic)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_ar.mp3",
+        "bytes": 31652
+      },
+      "android": {
+        "bytes": 94293
+      },
+      "ios": {
+        "bytes": 72402
+      }
+    },
+    {
+      "id": "171",
+      "fileName": "doha_1_en",
+      "titleAr": "تذكير الضحى (إنجليزي)",
+      "titleEn": "Duha reminder (English)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_en.mp3",
+        "bytes": 12740
+      },
+      "android": {
+        "bytes": 31599
+      },
+      "ios": {
+        "bytes": 26774
+      }
+    },
+    {
+      "id": "172",
+      "fileName": "doha_1_fa",
+      "titleAr": "تذكير الضحى (فارسي)",
+      "titleEn": "Duha reminder (Persian)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_fa.mp3",
+        "bytes": 8013
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 26332
+      }
+    },
+    {
+      "id": "173",
+      "fileName": "doha_1_fr",
+      "titleAr": "تذكير الضحى (فرنسي)",
+      "titleEn": "Duha reminder (French)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_fr.mp3",
+        "bytes": 20204
+      },
+      "android": {
+        "bytes": 47900
+      },
+      "ios": {
+        "bytes": 38708
+      }
+    },
+    {
+      "id": "174",
+      "fileName": "doha_1_id",
+      "titleAr": "تذكير الضحى (إندونيسي)",
+      "titleEn": "Duha reminder (Indonesian)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_id.mp3",
+        "bytes": 32545
+      },
+      "android": {
+        "bytes": 80919
+      },
+      "ios": {
+        "bytes": 62882
+      }
+    },
+    {
+      "id": "175",
+      "fileName": "doha_1_ru",
+      "titleAr": "تذكير الضحى (روسي)",
+      "titleEn": "Duha reminder (Russian)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_ru.mp3",
+        "bytes": 23450
+      },
+      "android": {
+        "bytes": 23841
+      },
+      "ios": {
+        "bytes": 38402
+      }
+    },
+    {
+      "id": "176",
+      "fileName": "doha_1_tr",
+      "titleAr": "تذكير الضحى (تركي)",
+      "titleEn": "Duha reminder (Turkish)",
+      "type": "duha_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/doha_1_tr.mp3",
+        "bytes": 16436
+      },
+      "android": {
+        "bytes": 27693
+      },
+      "ios": {
+        "bytes": 43740
+      }
+    },
+    {
+      "id": "177",
+      "fileName": "before_shorouq_1_ar",
+      "titleAr": "قبل الشروق (عربي)",
+      "titleEn": "Before sunrise (Arabic)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_ar.mp3",
+        "bytes": 11564
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "178",
+      "fileName": "before_shorouq_1_en",
+      "titleAr": "قبل الشروق (إنجليزي)",
+      "titleEn": "Before sunrise (English)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_en.mp3",
+        "bytes": 10110
+      },
+      "android": {
+        "bytes": 25748
+      },
+      "ios": {
+        "bytes": 22490
+      }
+    },
+    {
+      "id": "179",
+      "fileName": "before_shorouq_1_fa",
+      "titleAr": "قبل الشروق (فارسي)",
+      "titleEn": "Before sunrise (Persian)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_fa.mp3",
+        "bytes": 14349
+      },
+      "android": {
+        "bytes": 56685
+      },
+      "ios": {
+        "bytes": 45134
+      }
+    },
+    {
+      "id": "180",
+      "fileName": "before_shorouq_1_fr",
+      "titleAr": "قبل الشروق (فرنسي)",
+      "titleEn": "Before sunrise (French)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_fr.mp3",
+        "bytes": 10191
+      },
+      "android": {
+        "bytes": 24494
+      },
+      "ios": {
+        "bytes": 21572
+      }
+    },
+    {
+      "id": "181",
+      "fileName": "before_shorouq_1_id",
+      "titleAr": "قبل الشروق (إندونيسي)",
+      "titleEn": "Before sunrise (Indonesian)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_id.mp3",
+        "bytes": 19798
+      },
+      "android": {
+        "bytes": 46646
+      },
+      "ios": {
+        "bytes": 37790
+      }
+    },
+    {
+      "id": "182",
+      "fileName": "before_shorouq_1_ru",
+      "titleAr": "قبل الشروق (روسي)",
+      "titleEn": "Before sunrise (Russian)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_ru.mp3",
+        "bytes": 9658
+      },
+      "android": {
+        "bytes": 10049
+      },
+      "ios": {
+        "bytes": 18206
+      }
+    },
+    {
+      "id": "183",
+      "fileName": "before_shorouq_1_tr",
+      "titleAr": "قبل الشروق (تركي)",
+      "titleEn": "Before sunrise (Turkish)",
+      "type": "before_shurooq",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_shorouq_1_tr.mp3",
+        "bytes": 15836
+      },
+      "android": {
+        "bytes": 30957
+      },
+      "ios": {
+        "bytes": 48534
+      }
+    },
+    {
+      "id": "184",
+      "fileName": "before_zohr_1_ar",
+      "titleAr": "الظهر قريباً (عربي)",
+      "titleEn": "Dhuhr soon (Arabic)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_ar.mp3",
+        "bytes": 12212
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "185",
+      "fileName": "before_zohr_1_en",
+      "titleAr": "الظهر قريباً (إنجليزي)",
+      "titleEn": "Dhuhr soon (English)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_en.mp3",
+        "bytes": 9929
+      },
+      "android": {
+        "bytes": 25748
+      },
+      "ios": {
+        "bytes": 22490
+      }
+    },
+    {
+      "id": "186",
+      "fileName": "before_zohr_1_fa",
+      "titleAr": "الظهر قريباً (فارسي)",
+      "titleEn": "Dhuhr soon (Persian)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_fa.mp3",
+        "bytes": 17229
+      },
+      "android": {
+        "bytes": 68205
+      },
+      "ios": {
+        "bytes": 53464
+      }
+    },
+    {
+      "id": "187",
+      "fileName": "before_zohr_1_fr",
+      "titleAr": "الظهر قريباً (فرنسي)",
+      "titleEn": "Dhuhr soon (French)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_fr.mp3",
+        "bytes": 13215
+      },
+      "android": {
+        "bytes": 29510
+      },
+      "ios": {
+        "bytes": 25244
+      }
+    },
+    {
+      "id": "188",
+      "fileName": "before_zohr_1_id",
+      "titleAr": "الظهر قريباً (إندونيسي)",
+      "titleEn": "Dhuhr soon (Indonesian)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_id.mp3",
+        "bytes": 22383
+      },
+      "android": {
+        "bytes": 45810
+      },
+      "ios": {
+        "bytes": 37178
+      }
+    },
+    {
+      "id": "189",
+      "fileName": "before_zohr_1_ru",
+      "titleAr": "الظهر قريباً (روسي)",
+      "titleEn": "Dhuhr soon (Russian)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_ru.mp3",
+        "bytes": 17808
+      },
+      "android": {
+        "bytes": 18199
+      },
+      "ios": {
+        "bytes": 30140
+      }
+    },
+    {
+      "id": "190",
+      "fileName": "before_zohr_1_tr",
+      "titleAr": "الظهر قريباً (تركي)",
+      "titleEn": "Dhuhr soon (Turkish)",
+      "type": "dhuhr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_zohr_1_tr.mp3",
+        "bytes": 10844
+      },
+      "android": {
+        "bytes": 17517
+      },
+      "ios": {
+        "bytes": 28848
+      }
+    },
+    {
+      "id": "191",
+      "fileName": "before_asr_1_ar",
+      "titleAr": "العصر قريباً (عربي)",
+      "titleEn": "Asr soon (Arabic)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_ar.mp3",
+        "bytes": 11330
+      },
+      "android": {
+        "bytes": 31364
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "192",
+      "fileName": "before_asr_1_en",
+      "titleAr": "العصر قريباً (إنجليزي)",
+      "titleEn": "Asr soon (English)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_en.mp3",
+        "bytes": 11830
+      },
+      "android": {
+        "bytes": 27838
+      },
+      "ios": {
+        "bytes": 24020
+      }
+    },
+    {
+      "id": "193",
+      "fileName": "before_asr_1_fa",
+      "titleAr": "العصر قريباً (فارسي)",
+      "titleEn": "Asr soon (Persian)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_fa.mp3",
+        "bytes": 16653
+      },
+      "android": {
+        "bytes": 65901
+      },
+      "ios": {
+        "bytes": 51696
+      }
+    },
+    {
+      "id": "194",
+      "fileName": "before_asr_1_fr",
+      "titleAr": "العصر قريباً (فرنسي)",
+      "titleEn": "Asr soon (French)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_fr.mp3",
+        "bytes": 13393
+      },
+      "android": {
+        "bytes": 31182
+      },
+      "ios": {
+        "bytes": 26468
+      }
+    },
+    {
+      "id": "195",
+      "fileName": "before_asr_1_id",
+      "titleAr": "العصر قريباً (إندونيسي)",
+      "titleEn": "Asr soon (Indonesian)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_id.mp3",
+        "bytes": 25145
+      },
+      "android": {
+        "bytes": 51244
+      },
+      "ios": {
+        "bytes": 41156
+      }
+    },
+    {
+      "id": "196",
+      "fileName": "before_asr_1_ru",
+      "titleAr": "العصر قريباً (روسي)",
+      "titleEn": "Asr soon (Russian)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_ru.mp3",
+        "bytes": 9261
+      },
+      "android": {
+        "bytes": 9645
+      },
+      "ios": {
+        "bytes": 31092
+      }
+    },
+    {
+      "id": "197",
+      "fileName": "before_asr_1_tr",
+      "titleAr": "العصر قريباً (تركي)",
+      "titleEn": "Asr soon (Turkish)",
+      "type": "asr_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_asr_1_tr.mp3",
+        "bytes": 12428
+      },
+      "android": {
+        "bytes": 19437
+      },
+      "ios": {
+        "bytes": 31670
+      }
+    },
+    {
+      "id": "198",
+      "fileName": "before_maghreb_1_ar",
+      "titleAr": "المغرب قريباً (عربي)",
+      "titleEn": "Maghrib soon (Arabic)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_ar.mp3",
+        "bytes": 12068
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "199",
+      "fileName": "before_maghreb_1_en",
+      "titleAr": "المغرب قريباً (إنجليزي)",
+      "titleEn": "Maghrib soon (English)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_en.mp3",
+        "bytes": 12169
+      },
+      "android": {
+        "bytes": 29510
+      },
+      "ios": {
+        "bytes": 25244
+      }
+    },
+    {
+      "id": "200",
+      "fileName": "before_maghreb_1_fa",
+      "titleAr": "المغرب قريباً (فارسي)",
+      "titleEn": "Maghrib soon (Persian)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_fa.mp3",
+        "bytes": 16365
+      },
+      "android": {
+        "bytes": 64749
+      },
+      "ios": {
+        "bytes": 50982
+      }
+    },
+    {
+      "id": "201",
+      "fileName": "before_maghreb_1_fr",
+      "titleAr": "المغرب قريباً (فرنسي)",
+      "titleEn": "Maghrib soon (French)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_fr.mp3",
+        "bytes": 15011
+      },
+      "android": {
+        "bytes": 32435
+      },
+      "ios": {
+        "bytes": 27386
+      }
+    },
+    {
+      "id": "202",
+      "fileName": "before_maghreb_1_id",
+      "titleAr": "المغرب قريباً (إندونيسي)",
+      "titleEn": "Maghrib soon (Indonesian)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_id.mp3",
+        "bytes": 21627
+      },
+      "android": {
+        "bytes": 44974
+      },
+      "ios": {
+        "bytes": 36566
+      }
+    },
+    {
+      "id": "203",
+      "fileName": "before_maghreb_1_ru",
+      "titleAr": "المغرب قريباً (روسي)",
+      "titleEn": "Maghrib soon (Russian)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_ru.mp3",
+        "bytes": 9837
+      },
+      "android": {
+        "bytes": 10221
+      },
+      "ios": {
+        "bytes": 32792
+      }
+    },
+    {
+      "id": "204",
+      "fileName": "before_maghreb_1_tr",
+      "titleAr": "المغرب قريباً (تركي)",
+      "titleEn": "Maghrib soon (Turkish)",
+      "type": "maghrib_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_maghreb_1_tr.mp3",
+        "bytes": 10100
+      },
+      "android": {
+        "bytes": 15597
+      },
+      "ios": {
+        "bytes": 26026
+      }
+    },
+    {
+      "id": "205",
+      "fileName": "before_esha_1_ar",
+      "titleAr": "العشاء قريباً (عربي)",
+      "titleEn": "Isha soon (Arabic)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_ar.mp3",
+        "bytes": 12110
+      },
+      "android": {
+        "bytes": 31364
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "206",
+      "fileName": "before_esha_1_en",
+      "titleAr": "العشاء قريباً (إنجليزي)",
+      "titleEn": "Isha soon (English)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_en.mp3",
+        "bytes": 13182
+      },
+      "android": {
+        "bytes": 31599
+      },
+      "ios": {
+        "bytes": 26774
+      }
+    },
+    {
+      "id": "207",
+      "fileName": "before_esha_1_fa",
+      "titleAr": "العشاء قريباً (فارسي)",
+      "titleEn": "Isha soon (Persian)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_fa.mp3",
+        "bytes": 16557
+      },
+      "android": {
+        "bytes": 65517
+      },
+      "ios": {
+        "bytes": 51356
+      }
+    },
+    {
+      "id": "208",
+      "fileName": "before_esha_1_fr",
+      "titleAr": "العشاء قريباً (فرنسي)",
+      "titleEn": "Isha soon (French)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_fr.mp3",
+        "bytes": 16001
+      },
+      "android": {
+        "bytes": 35361
+      },
+      "ios": {
+        "bytes": 29528
+      }
+    },
+    {
+      "id": "209",
+      "fileName": "before_esha_1_id",
+      "titleAr": "العشاء قريباً (إندونيسي)",
+      "titleEn": "Isha soon (Indonesian)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_id.mp3",
+        "bytes": 20240
+      },
+      "android": {
+        "bytes": 44556
+      },
+      "ios": {
+        "bytes": 36260
+      }
+    },
+    {
+      "id": "210",
+      "fileName": "before_esha_1_ru",
+      "titleAr": "العشاء قريباً (روسي)",
+      "titleEn": "Isha soon (Russian)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_ru.mp3",
+        "bytes": 9261
+      },
+      "android": {
+        "bytes": 9645
+      },
+      "ios": {
+        "bytes": 31092
+      }
+    },
+    {
+      "id": "211",
+      "fileName": "before_esha_1_tr",
+      "titleAr": "العشاء قريباً (تركي)",
+      "titleEn": "Isha soon (Turkish)",
+      "type": "isha_soon",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/before_esha_1_tr.mp3",
+        "bytes": 12092
+      },
+      "android": {
+        "bytes": 20973
+      },
+      "ios": {
+        "bytes": 33914
+      }
+    },
+    {
+      "id": "212",
+      "fileName": "saba7_1_ar",
+      "titleAr": "أذكار الصباح (عربي)",
+      "titleEn": "Morning athkar (Arabic)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_ar.mp3",
+        "bytes": 15644
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "213",
+      "fileName": "saba7_1_en",
+      "titleAr": "أذكار الصباح (إنجليزي)",
+      "titleEn": "Morning athkar (English)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_en.mp3",
+        "bytes": 17263
+      },
+      "android": {
+        "bytes": 44974
+      },
+      "ios": {
+        "bytes": 36566
+      }
+    },
+    {
+      "id": "214",
+      "fileName": "saba7_1_fa",
+      "titleAr": "أذكار الصباح (فارسي)",
+      "titleEn": "Morning athkar (Persian)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_fa.mp3",
+        "bytes": 18861
+      },
+      "android": {
+        "bytes": 74733
+      },
+      "ios": {
+        "bytes": 58224
+      }
+    },
+    {
+      "id": "215",
+      "fileName": "saba7_1_fr",
+      "titleAr": "أذكار الصباح (فرنسي)",
+      "titleEn": "Morning athkar (French)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_fr.mp3",
+        "bytes": 20238
+      },
+      "android": {
+        "bytes": 44974
+      },
+      "ios": {
+        "bytes": 36566
+      }
+    },
+    {
+      "id": "216",
+      "fileName": "saba7_1_id",
+      "titleAr": "أذكار الصباح (إندونيسي)",
+      "titleEn": "Morning athkar (Indonesian)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_id.mp3",
+        "bytes": 23072
+      },
+      "android": {
+        "bytes": 51662
+      },
+      "ios": {
+        "bytes": 41462
+      }
+    },
+    {
+      "id": "217",
+      "fileName": "saba7_1_ru",
+      "titleAr": "أذكار الصباح (روسي)",
+      "titleEn": "Morning athkar (Russian)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_ru.mp3",
+        "bytes": 31917
+      },
+      "android": {
+        "bytes": 32301
+      },
+      "ios": {
+        "bytes": 50778
+      }
+    },
+    {
+      "id": "218",
+      "fileName": "saba7_1_tr",
+      "titleAr": "أذكار الصباح (تركي)",
+      "titleEn": "Morning athkar (Turkish)",
+      "type": "morning_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/saba7_1_tr.mp3",
+        "bytes": 22124
+      },
+      "android": {
+        "bytes": 32301
+      },
+      "ios": {
+        "bytes": 50506
+      }
+    },
+    {
+      "id": "219",
+      "fileName": "evenning_azkar_1_ar",
+      "titleAr": "أذكار المساء (عربي)",
+      "titleEn": "Evening athkar (Arabic)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_ar.mp3",
+        "bytes": 15284
+      },
+      "android": {
+        "bytes": 32877
+      },
+      "ios": {
+        "bytes": 51186
+      }
+    },
+    {
+      "id": "220",
+      "fileName": "evenning_azkar_1_en",
+      "titleAr": "أذكار المساء (إنجليزي)",
+      "titleEn": "Evening athkar (English)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_en.mp3",
+        "bytes": 17419
+      },
+      "android": {
+        "bytes": 47482
+      },
+      "ios": {
+        "bytes": 38402
+      }
+    },
+    {
+      "id": "221",
+      "fileName": "evenning_azkar_1_fa",
+      "titleAr": "أذكار المساء (فارسي)",
+      "titleEn": "Evening athkar (Persian)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_fa.mp3",
+        "bytes": 16941
+      },
+      "android": {
+        "bytes": 67053
+      },
+      "ios": {
+        "bytes": 52614
+      }
+    },
+    {
+      "id": "222",
+      "fileName": "evenning_azkar_1_fr",
+      "titleAr": "أذكار المساء (فرنسي)",
+      "titleEn": "Evening athkar (French)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_fr.mp3",
+        "bytes": 20606
+      },
+      "android": {
+        "bytes": 44974
+      },
+      "ios": {
+        "bytes": 36566
+      }
+    },
+    {
+      "id": "223",
+      "fileName": "evenning_azkar_1_id",
+      "titleAr": "أذكار المساء (إندونيسي)",
+      "titleEn": "Evening athkar (Indonesian)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_id.mp3",
+        "bytes": 32151
+      },
+      "android": {
+        "bytes": 82173
+      },
+      "ios": {
+        "bytes": 63800
+      }
+    },
+    {
+      "id": "224",
+      "fileName": "evenning_azkar_1_ru",
+      "titleAr": "أذكار المساء (روسي)",
+      "titleEn": "Evening athkar (Russian)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_ru.mp3",
+        "bytes": 39213
+      },
+      "android": {
+        "bytes": 39597
+      },
+      "ios": {
+        "bytes": 61454
+      }
+    },
+    {
+      "id": "225",
+      "fileName": "evenning_azkar_1_tr",
+      "titleAr": "أذكار المساء (تركي)",
+      "titleEn": "Evening athkar (Turkish)",
+      "type": "evening_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/evenning_azkar_1_tr.mp3",
+        "bytes": 17732
+      },
+      "android": {
+        "bytes": 31533
+      },
+      "ios": {
+        "bytes": 49384
+      }
+    },
+    {
+      "id": "226",
+      "fileName": "fasting_white_1_ar",
+      "titleAr": "صيام الأيام البيض (عربي)",
+      "titleEn": "White days fasting (Arabic)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_ar.mp3",
+        "bytes": 17156
+      },
+      "android": {
+        "bytes": 39405
+      },
+      "ios": {
+        "bytes": 60706
+      }
+    },
+    {
+      "id": "227",
+      "fileName": "fasting_white_1_en",
+      "titleAr": "صيام الأيام البيض (إنجليزي)",
+      "titleEn": "White days fasting (English)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_en.mp3",
+        "bytes": 24347
+      },
+      "android": {
+        "bytes": 63782
+      },
+      "ios": {
+        "bytes": 50336
+      }
+    },
+    {
+      "id": "228",
+      "fileName": "fasting_white_1_fa",
+      "titleAr": "صيام الأيام البيض (فارسي)",
+      "titleEn": "White days fasting (Persian)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_fa.mp3",
+        "bytes": 16653
+      },
+      "android": {
+        "bytes": 65901
+      },
+      "ios": {
+        "bytes": 51730
+      }
+    },
+    {
+      "id": "229",
+      "fileName": "fasting_white_1_fr",
+      "titleAr": "صيام الأيام البيض (فرنسي)",
+      "titleEn": "White days fasting (French)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_fr.mp3",
+        "bytes": 23960
+      },
+      "android": {
+        "bytes": 55423
+      },
+      "ios": {
+        "bytes": 44216
+      }
+    },
+    {
+      "id": "230",
+      "fileName": "fasting_white_1_id",
+      "titleAr": "صيام الأيام البيض (إندونيسي)",
+      "titleEn": "White days fasting (Indonesian)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_id.mp3",
+        "bytes": 32097
+      },
+      "android": {
+        "bytes": 80083
+      },
+      "ios": {
+        "bytes": 62270
+      }
+    },
+    {
+      "id": "231",
+      "fileName": "fasting_white_1_ru",
+      "titleAr": "صيام الأيام البيض (روسي)",
+      "titleEn": "White days fasting (Russian)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_ru.mp3",
+        "bytes": 32109
+      },
+      "android": {
+        "bytes": 32493
+      },
+      "ios": {
+        "bytes": 51050
+      }
+    },
+    {
+      "id": "232",
+      "fileName": "fasting_white_1_tr",
+      "titleAr": "صيام الأيام البيض (تركي)",
+      "titleEn": "White days fasting (Turkish)",
+      "type": "fast_white",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/fasting_white_1_tr.mp3",
+        "bytes": 20588
+      },
+      "android": {
+        "bytes": 33453
+      },
+      "ios": {
+        "bytes": 52172
+      }
+    },
+    {
+      "id": "233",
+      "fileName": "mondayFasting_1_ar",
+      "titleAr": "صيام يوم الاثنين (عربي)",
+      "titleEn": "Monday fasting (Arabic)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_ar.mp3",
+        "bytes": 17060
+      },
+      "android": {
+        "bytes": 39405
+      },
+      "ios": {
+        "bytes": 60706
+      }
+    },
+    {
+      "id": "234",
+      "fileName": "mondayFasting_1_en",
+      "titleAr": "صيام يوم الاثنين (إنجليزي)",
+      "titleEn": "Monday fasting (English)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_en.mp3",
+        "bytes": 19949
+      },
+      "android": {
+        "bytes": 51244
+      },
+      "ios": {
+        "bytes": 41156
+      }
+    },
+    {
+      "id": "235",
+      "fileName": "mondayFasting_1_fa",
+      "titleAr": "صيام يوم الاثنين (فارسي)",
+      "titleEn": "Monday fasting (Persian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_fa.mp3",
+        "bytes": 11565
+      },
+      "android": {
+        "bytes": 45549
+      },
+      "ios": {
+        "bytes": 36906
+      }
+    },
+    {
+      "id": "236",
+      "fileName": "mondayFasting_1_fr",
+      "titleAr": "صيام يوم الاثنين (فرنسي)",
+      "titleEn": "Monday fasting (French)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_fr.mp3",
+        "bytes": 20057
+      },
+      "android": {
+        "bytes": 45810
+      },
+      "ios": {
+        "bytes": 37178
+      }
+    },
+    {
+      "id": "237",
+      "fileName": "mondayFasting_1_id",
+      "titleAr": "صيام يوم الاثنين (إندونيسي)",
+      "titleEn": "Monday fasting (Indonesian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_id.mp3",
+        "bytes": 32487
+      },
+      "android": {
+        "bytes": 82173
+      },
+      "ios": {
+        "bytes": 63800
+      }
+    },
+    {
+      "id": "238",
+      "fileName": "mondayFasting_1_ru",
+      "titleAr": "صيام يوم الاثنين (روسي)",
+      "titleEn": "Monday fasting (Russian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_ru.mp3",
+        "bytes": 32301
+      },
+      "android": {
+        "bytes": 32685
+      },
+      "ios": {
+        "bytes": 51356
+      }
+    },
+    {
+      "id": "239",
+      "fileName": "mondayFasting_1_tr",
+      "titleAr": "صيام يوم الاثنين (تركي)",
+      "titleEn": "Monday fasting (Turkish)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/mondayFasting_1_tr.mp3",
+        "bytes": 18956
+      },
+      "android": {
+        "bytes": 31533
+      },
+      "ios": {
+        "bytes": 49384
+      }
+    },
+    {
+      "id": "240",
+      "fileName": "thursdayFasting_1_ar",
+      "titleAr": "صيام يوم الخميس (عربي)",
+      "titleEn": "Thursday fasting (Arabic)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_ar.mp3",
+        "bytes": 16340
+      },
+      "android": {
+        "bytes": 31341
+      },
+      "ios": {
+        "bytes": 49010
+      }
+    },
+    {
+      "id": "241",
+      "fileName": "thursdayFasting_1_en",
+      "titleAr": "صيام يوم الخميس (إنجليزي)",
+      "titleEn": "Thursday fasting (English)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_en.mp3",
+        "bytes": 19404
+      },
+      "android": {
+        "bytes": 48736
+      },
+      "ios": {
+        "bytes": 39320
+      }
+    },
+    {
+      "id": "242",
+      "fileName": "thursdayFasting_1_fa",
+      "titleAr": "صيام يوم الخميس (فارسي)",
+      "titleEn": "Thursday fasting (Persian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_fa.mp3",
+        "bytes": 13485
+      },
+      "android": {
+        "bytes": 53229
+      },
+      "ios": {
+        "bytes": 42618
+      }
+    },
+    {
+      "id": "243",
+      "fileName": "thursdayFasting_1_fr",
+      "titleAr": "صيام يوم الخميس (فرنسي)",
+      "titleEn": "Thursday fasting (French)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_fr.mp3",
+        "bytes": 18703
+      },
+      "android": {
+        "bytes": 40795
+      },
+      "ios": {
+        "bytes": 33506
+      }
+    },
+    {
+      "id": "244",
+      "fileName": "thursdayFasting_1_id",
+      "titleAr": "صيام يوم الخميس (إندونيسي)",
+      "titleEn": "Thursday fasting (Indonesian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_id.mp3",
+        "bytes": 32514
+      },
+      "android": {
+        "bytes": 78411
+      },
+      "ios": {
+        "bytes": 61046
+      }
+    },
+    {
+      "id": "245",
+      "fileName": "thursdayFasting_1_ru",
+      "titleAr": "صيام يوم الخميس (روسي)",
+      "titleEn": "Thursday fasting (Russian)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_ru.mp3",
+        "bytes": 30765
+      },
+      "android": {
+        "bytes": 31149
+      },
+      "ios": {
+        "bytes": 49112
+      }
+    },
+    {
+      "id": "246",
+      "fileName": "thursdayFasting_1_tr",
+      "titleAr": "صيام يوم الخميس (تركي)",
+      "titleEn": "Thursday fasting (Turkish)",
+      "type": "fast_mon_thu",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/thursdayFasting_1_tr.mp3",
+        "bytes": 17108
+      },
+      "android": {
+        "bytes": 27501
+      },
+      "ios": {
+        "bytes": 43468
+      }
+    },
+    {
+      "id": "247",
+      "fileName": "quran_1_ar",
+      "titleAr": "تذكير قراءة القرآن (عربي)",
+      "titleEn": "Quran reading reminder (Arabic)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_ar.mp3",
+        "bytes": 13508
+      },
+      "android": {
+        "bytes": 27501
+      },
+      "ios": {
+        "bytes": 43298
+      }
+    },
+    {
+      "id": "248",
+      "fileName": "quran_1_en",
+      "titleAr": "تذكير قراءة القرآن (إنجليزي)",
+      "titleEn": "Quran reading reminder (English)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_en.mp3",
+        "bytes": 21527
+      },
+      "android": {
+        "bytes": 54169
+      },
+      "ios": {
+        "bytes": 43298
+      }
+    },
+    {
+      "id": "249",
+      "fileName": "quran_1_fa",
+      "titleAr": "تذكير قراءة القرآن (فارسي)",
+      "titleEn": "Quran reading reminder (Persian)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_fa.mp3",
+        "bytes": 13389
+      },
+      "android": {
+        "bytes": 52845
+      },
+      "ios": {
+        "bytes": 42210
+      }
+    },
+    {
+      "id": "250",
+      "fileName": "quran_1_fr",
+      "titleAr": "تذكير قراءة القرآن (فرنسي)",
+      "titleEn": "Quran reading reminder (French)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_fr.mp3",
+        "bytes": 23783
+      },
+      "android": {
+        "bytes": 50408
+      },
+      "ios": {
+        "bytes": 40544
+      }
+    },
+    {
+      "id": "251",
+      "fileName": "quran_1_id",
+      "titleAr": "تذكير قراءة القرآن (إندونيسي)",
+      "titleEn": "Quran reading reminder (Indonesian)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_id.mp3",
+        "bytes": 19802
+      },
+      "android": {
+        "bytes": 42884
+      },
+      "ios": {
+        "bytes": 35036
+      }
+    },
+    {
+      "id": "252",
+      "fileName": "quran_1_ru",
+      "titleAr": "تذكير قراءة القرآن (روسي)",
+      "titleEn": "Quran reading reminder (Russian)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_ru.mp3",
+        "bytes": 19271
+      },
+      "android": {
+        "bytes": 19662
+      },
+      "ios": {
+        "bytes": 32282
+      }
+    },
+    {
+      "id": "253",
+      "fileName": "quran_1_tr",
+      "titleAr": "تذكير قراءة القرآن (تركي)",
+      "titleEn": "Quran reading reminder (Turkish)",
+      "type": "kahf_reminder",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/quran_1_tr.mp3",
+        "bytes": 14204
+      },
+      "android": {
+        "bytes": 23853
+      },
+      "ios": {
+        "bytes": 38130
+      }
+    },
+    {
+      "id": "254",
+      "fileName": "iqama_clock3",
+      "titleAr": "نغمة ساعة الإقامة",
+      "titleEn": "Iqama clock tone",
+      "type": "eqama",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/iqama_clock3.mp3",
+        "bytes": 103244
+      },
+      "android": {
+        "bytes": 41325
+      },
+      "ios": {
+        "bytes": 63460
+      }
+    },
+    {
+      "id": "255",
+      "fileName": "sleeping",
+      "titleAr": "أذكار النوم (قصير)",
+      "titleEn": "Sleep athkar (Short)",
+      "type": "sleep_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/sleeping.mp3",
+        "bytes": 52822
+      },
+      "android": {
+        "bytes": 31260
+      },
+      "ios": {
+        "bytes": 94094
+      }
+    },
+    {
+      "id": "256",
+      "fileName": "sleepingFull",
+      "titleAr": "أذكار النوم (كامل)",
+      "titleEn": "Sleep athkar (Full)",
+      "type": "sleep_athkar",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/sleepingFull.mp3",
+        "bytes": 46663
+      },
+      "android": {
+        "bytes": 92909
+      },
+      "ios": {
+        "bytes": 274634
+      }
+    },
+    {
+      "id": "257",
+      "fileName": "default_tone",
+      "titleAr": "النغمة الافتراضية",
+      "titleEn": "Default tone",
+      "type": "default_tone",
+      "parts": 1,
+      "rev": 1,
+      "preview": {
+        "url": "notifications/default_tone.mp3",
+        "bytes": 17389
+      },
+      "android": {
+        "bytes": 17389
+      },
+      "ios": {
+        "bytes": 16234
+      }
+    },
+    {
+      "id": "258",
+      "fileName": "fajr_mecca_2",
+      "titleAr": "أذان الفجر: مكة المكرمة 2 (كامل)",
+      "titleEn": "Makkah Fajr Adhan 2 (Full)",
+      "type": "adhan_fajr",
+      "parts": 9,
+      "rev": 1,
+      "preview": {
+        "url": "fajr_mecca_2.mp3",
+        "bytes": 761441
+      },
+      "android": {
+        "bytes": 2031765
+      },
+      "ios": {
+        "bytes": 3008090
+      }
+    },
+    {
+      "id": "259",
+      "fileName": "mecca",
+      "titleAr": "أذان مكة المكرمة 2 (كامل)",
+      "titleEn": "Makkah Adhan 2 (Full)",
+      "type": "adhan",
+      "parts": 8,
+      "rev": 1,
+      "preview": {
+        "url": "mecca.mp3",
+        "bytes": 410012
+      },
+      "android": {
+        "bytes": 821120
+      },
+      "ios": {
+        "bytes": 2431502
+      }
+    },
+    {
+      "id": "260",
+      "fileName": "longTakbiratLowVolume",
+      "titleAr": "تكبيرات طويلة بصوت منخفض (كامل)",
+      "titleEn": "Long takbeer, low volume (Full)",
+      "type": "adhan",
+      "parts": 4,
+      "rev": 1,
+      "preview": {
+        "url": "longTakbiratLowVolume.mp3",
+        "bytes": 366956
+      },
+      "android": {
+        "bytes": 1467828
+      },
+      "ios": {
+        "bytes": 1090002
       }
     }
   ]
