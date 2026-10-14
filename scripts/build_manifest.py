@@ -50,7 +50,7 @@ for e in legacy:
     sounds.append({
         "id": e["id"], "fileName": name,
         "titleAr": e["titleAr"], "titleEn": e["titleEn"],
-        "type": e["type"], "parts": a[0], "rev": 1,
+        "type": e["type"], "parts": a[0], "rev": e.get("rev", 1),
         "preview": {"url": prev, "bytes": os.path.getsize(os.path.join(ROOT, prev))},
         "android": {"bytes": a[1]}, "ios": {"bytes": i[1]},
     })

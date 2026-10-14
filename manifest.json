@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-14T18:01:19+00:00",
+  "generatedAt": "2026-10-14T20:12:14+00:00",
   "baseUrl": "https://raw.githubusercontent.com/bilalelsayed97/adhan_sounds/main/",
   "partTemplates": {
     "android": "android/{fileName}/{fileName}_{n}.mp3",
@@ -2028,10 +2028,10 @@
       "titleEn": "Salawat (Arabic)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_ar.mp3",
-        "bytes": 22076
+        "bytes": 55341
       },
       "android": {
         "bytes": 55341
@@ -2047,10 +2047,10 @@
       "titleEn": "Salawat (English)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_en.mp3",
-        "bytes": 24973
+        "bytes": 59185
       },
       "android": {
         "bytes": 59185
@@ -2066,10 +2066,10 @@
       "titleEn": "Salawat (Persian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_fa.mp3",
-        "bytes": 34893
+        "bytes": 138861
       },
       "android": {
         "bytes": 138861
@@ -2085,10 +2085,10 @@
       "titleEn": "Salawat (French)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_fr.mp3",
-        "bytes": 30622
+        "bytes": 71306
       },
       "android": {
         "bytes": 71306
@@ -2104,10 +2104,10 @@
       "titleEn": "Salawat (Indonesian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_id.mp3",
-        "bytes": 40639
+        "bytes": 97219
       },
       "android": {
         "bytes": 97219
@@ -2123,10 +2123,10 @@
       "titleEn": "Salawat (Russian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_ru.mp3",
-        "bytes": 27421
+        "bytes": 27812
       },
       "android": {
         "bytes": 27812
@@ -2142,10 +2142,10 @@
       "titleEn": "Salawat (Turkish)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_1_tr.mp3",
-        "bytes": 20972
+        "bytes": 34221
       },
       "android": {
         "bytes": 34221
@@ -2161,10 +2161,10 @@
       "titleEn": "Salawat, male voice (Arabic)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_ar.mp3",
-        "bytes": 32241
+        "bytes": 94293
       },
       "android": {
         "bytes": 94293
@@ -2180,10 +2180,10 @@
       "titleEn": "Salawat, male voice (English)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_en.mp3",
-        "bytes": 28147
+        "bytes": 68798
       },
       "android": {
         "bytes": 68798
@@ -2199,10 +2199,10 @@
       "titleEn": "Salawat, male voice (Persian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_fa.mp3",
-        "bytes": 34893
+        "bytes": 138861
       },
       "android": {
         "bytes": 138861
@@ -2218,10 +2218,10 @@
       "titleEn": "Salawat, male voice (French)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_fr.mp3",
-        "bytes": 34813
+        "bytes": 84680
       },
       "android": {
         "bytes": 84680
@@ -2237,10 +2237,10 @@
       "titleEn": "Salawat, male voice (Indonesian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_id.mp3",
-        "bytes": 43530
+        "bytes": 106832
       },
       "android": {
         "bytes": 106832
@@ -2256,10 +2256,10 @@
       "titleEn": "Salawat, male voice (Russian)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_ru.mp3",
-        "bytes": 31600
+        "bytes": 31991
       },
       "android": {
         "bytes": 31991
@@ -2275,10 +2275,10 @@
       "titleEn": "Salawat, male voice (Turkish)",
       "type": "salah_nabi_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/salahNaby_m_1_tr.mp3",
-        "bytes": 19892
+        "bytes": 31917
       },
       "android": {
         "bytes": 31917
@@ -2294,10 +2294,10 @@
       "titleEn": "Duha reminder (Arabic)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_ar.mp3",
-        "bytes": 31652
+        "bytes": 94293
       },
       "android": {
         "bytes": 94293
@@ -2313,10 +2313,10 @@
       "titleEn": "Duha reminder (English)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_en.mp3",
-        "bytes": 12740
+        "bytes": 31599
       },
       "android": {
         "bytes": 31599
@@ -2332,10 +2332,10 @@
       "titleEn": "Duha reminder (Persian)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_fa.mp3",
-        "bytes": 8013
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -2351,10 +2351,10 @@
       "titleEn": "Duha reminder (French)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_fr.mp3",
-        "bytes": 20204
+        "bytes": 47900
       },
       "android": {
         "bytes": 47900
@@ -2370,10 +2370,10 @@
       "titleEn": "Duha reminder (Indonesian)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_id.mp3",
-        "bytes": 32545
+        "bytes": 80919
       },
       "android": {
         "bytes": 80919
@@ -2389,10 +2389,10 @@
       "titleEn": "Duha reminder (Russian)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_ru.mp3",
-        "bytes": 23450
+        "bytes": 23841
       },
       "android": {
         "bytes": 23841
@@ -2408,10 +2408,10 @@
       "titleEn": "Duha reminder (Turkish)",
       "type": "duha_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/doha_1_tr.mp3",
-        "bytes": 16436
+        "bytes": 27693
       },
       "android": {
         "bytes": 27693
@@ -2427,10 +2427,10 @@
       "titleEn": "Before sunrise (Arabic)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_ar.mp3",
-        "bytes": 11564
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -2446,10 +2446,10 @@
       "titleEn": "Before sunrise (English)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_en.mp3",
-        "bytes": 10110
+        "bytes": 25748
       },
       "android": {
         "bytes": 25748
@@ -2465,10 +2465,10 @@
       "titleEn": "Before sunrise (Persian)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_fa.mp3",
-        "bytes": 14349
+        "bytes": 56685
       },
       "android": {
         "bytes": 56685
@@ -2484,10 +2484,10 @@
       "titleEn": "Before sunrise (French)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_fr.mp3",
-        "bytes": 10191
+        "bytes": 24494
       },
       "android": {
         "bytes": 24494
@@ -2503,10 +2503,10 @@
       "titleEn": "Before sunrise (Indonesian)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_id.mp3",
-        "bytes": 19798
+        "bytes": 46646
       },
       "android": {
         "bytes": 46646
@@ -2522,10 +2522,10 @@
       "titleEn": "Before sunrise (Russian)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_ru.mp3",
-        "bytes": 9658
+        "bytes": 10049
       },
       "android": {
         "bytes": 10049
@@ -2541,10 +2541,10 @@
       "titleEn": "Before sunrise (Turkish)",
       "type": "before_shurooq",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_shorouq_1_tr.mp3",
-        "bytes": 15836
+        "bytes": 30957
       },
       "android": {
         "bytes": 30957
@@ -2560,10 +2560,10 @@
       "titleEn": "Dhuhr soon (Arabic)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_ar.mp3",
-        "bytes": 12212
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -2579,10 +2579,10 @@
       "titleEn": "Dhuhr soon (English)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_en.mp3",
-        "bytes": 9929
+        "bytes": 25748
       },
       "android": {
         "bytes": 25748
@@ -2598,10 +2598,10 @@
       "titleEn": "Dhuhr soon (Persian)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_fa.mp3",
-        "bytes": 17229
+        "bytes": 68205
       },
       "android": {
         "bytes": 68205
@@ -2617,10 +2617,10 @@
       "titleEn": "Dhuhr soon (French)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_fr.mp3",
-        "bytes": 13215
+        "bytes": 29510
       },
       "android": {
         "bytes": 29510
@@ -2636,10 +2636,10 @@
       "titleEn": "Dhuhr soon (Indonesian)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_id.mp3",
-        "bytes": 22383
+        "bytes": 45810
       },
       "android": {
         "bytes": 45810
@@ -2655,10 +2655,10 @@
       "titleEn": "Dhuhr soon (Russian)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_ru.mp3",
-        "bytes": 17808
+        "bytes": 18199
       },
       "android": {
         "bytes": 18199
@@ -2674,10 +2674,10 @@
       "titleEn": "Dhuhr soon (Turkish)",
       "type": "dhuhr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_zohr_1_tr.mp3",
-        "bytes": 10844
+        "bytes": 17517
       },
       "android": {
         "bytes": 17517
@@ -2693,10 +2693,10 @@
       "titleEn": "Asr soon (Arabic)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_ar.mp3",
-        "bytes": 11330
+        "bytes": 31364
       },
       "android": {
         "bytes": 31364
@@ -2712,10 +2712,10 @@
       "titleEn": "Asr soon (English)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_en.mp3",
-        "bytes": 11830
+        "bytes": 27838
       },
       "android": {
         "bytes": 27838
@@ -2731,10 +2731,10 @@
       "titleEn": "Asr soon (Persian)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_fa.mp3",
-        "bytes": 16653
+        "bytes": 65901
       },
       "android": {
         "bytes": 65901
@@ -2750,10 +2750,10 @@
       "titleEn": "Asr soon (French)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_fr.mp3",
-        "bytes": 13393
+        "bytes": 31182
       },
       "android": {
         "bytes": 31182
@@ -2769,10 +2769,10 @@
       "titleEn": "Asr soon (Indonesian)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_id.mp3",
-        "bytes": 25145
+        "bytes": 51244
       },
       "android": {
         "bytes": 51244
@@ -2788,10 +2788,10 @@
       "titleEn": "Asr soon (Russian)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_ru.mp3",
-        "bytes": 9261
+        "bytes": 9645
       },
       "android": {
         "bytes": 9645
@@ -2807,10 +2807,10 @@
       "titleEn": "Asr soon (Turkish)",
       "type": "asr_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_asr_1_tr.mp3",
-        "bytes": 12428
+        "bytes": 19437
       },
       "android": {
         "bytes": 19437
@@ -2826,10 +2826,10 @@
       "titleEn": "Maghrib soon (Arabic)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_ar.mp3",
-        "bytes": 12068
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -2845,10 +2845,10 @@
       "titleEn": "Maghrib soon (English)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_en.mp3",
-        "bytes": 12169
+        "bytes": 29510
       },
       "android": {
         "bytes": 29510
@@ -2864,10 +2864,10 @@
       "titleEn": "Maghrib soon (Persian)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_fa.mp3",
-        "bytes": 16365
+        "bytes": 64749
       },
       "android": {
         "bytes": 64749
@@ -2883,10 +2883,10 @@
       "titleEn": "Maghrib soon (French)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_fr.mp3",
-        "bytes": 15011
+        "bytes": 32435
       },
       "android": {
         "bytes": 32435
@@ -2902,10 +2902,10 @@
       "titleEn": "Maghrib soon (Indonesian)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_id.mp3",
-        "bytes": 21627
+        "bytes": 44974
       },
       "android": {
         "bytes": 44974
@@ -2921,10 +2921,10 @@
       "titleEn": "Maghrib soon (Russian)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_ru.mp3",
-        "bytes": 9837
+        "bytes": 10221
       },
       "android": {
         "bytes": 10221
@@ -2940,10 +2940,10 @@
       "titleEn": "Maghrib soon (Turkish)",
       "type": "maghrib_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_maghreb_1_tr.mp3",
-        "bytes": 10100
+        "bytes": 15597
       },
       "android": {
         "bytes": 15597
@@ -2959,10 +2959,10 @@
       "titleEn": "Isha soon (Arabic)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_ar.mp3",
-        "bytes": 12110
+        "bytes": 31364
       },
       "android": {
         "bytes": 31364
@@ -2978,10 +2978,10 @@
       "titleEn": "Isha soon (English)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_en.mp3",
-        "bytes": 13182
+        "bytes": 31599
       },
       "android": {
         "bytes": 31599
@@ -2997,10 +2997,10 @@
       "titleEn": "Isha soon (Persian)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_fa.mp3",
-        "bytes": 16557
+        "bytes": 65517
       },
       "android": {
         "bytes": 65517
@@ -3016,10 +3016,10 @@
       "titleEn": "Isha soon (French)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_fr.mp3",
-        "bytes": 16001
+        "bytes": 35361
       },
       "android": {
         "bytes": 35361
@@ -3035,10 +3035,10 @@
       "titleEn": "Isha soon (Indonesian)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_id.mp3",
-        "bytes": 20240
+        "bytes": 44556
       },
       "android": {
         "bytes": 44556
@@ -3054,10 +3054,10 @@
       "titleEn": "Isha soon (Russian)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_ru.mp3",
-        "bytes": 9261
+        "bytes": 9645
       },
       "android": {
         "bytes": 9645
@@ -3073,10 +3073,10 @@
       "titleEn": "Isha soon (Turkish)",
       "type": "isha_soon",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/before_esha_1_tr.mp3",
-        "bytes": 12092
+        "bytes": 20973
       },
       "android": {
         "bytes": 20973
@@ -3092,10 +3092,10 @@
       "titleEn": "Morning athkar (Arabic)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_ar.mp3",
-        "bytes": 15644
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -3111,10 +3111,10 @@
       "titleEn": "Morning athkar (English)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_en.mp3",
-        "bytes": 17263
+        "bytes": 44974
       },
       "android": {
         "bytes": 44974
@@ -3130,10 +3130,10 @@
       "titleEn": "Morning athkar (Persian)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_fa.mp3",
-        "bytes": 18861
+        "bytes": 74733
       },
       "android": {
         "bytes": 74733
@@ -3149,10 +3149,10 @@
       "titleEn": "Morning athkar (French)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_fr.mp3",
-        "bytes": 20238
+        "bytes": 44974
       },
       "android": {
         "bytes": 44974
@@ -3168,10 +3168,10 @@
       "titleEn": "Morning athkar (Indonesian)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_id.mp3",
-        "bytes": 23072
+        "bytes": 51662
       },
       "android": {
         "bytes": 51662
@@ -3187,10 +3187,10 @@
       "titleEn": "Morning athkar (Russian)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_ru.mp3",
-        "bytes": 31917
+        "bytes": 32301
       },
       "android": {
         "bytes": 32301
@@ -3206,10 +3206,10 @@
       "titleEn": "Morning athkar (Turkish)",
       "type": "morning_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/saba7_1_tr.mp3",
-        "bytes": 22124
+        "bytes": 32301
       },
       "android": {
         "bytes": 32301
@@ -3225,10 +3225,10 @@
       "titleEn": "Evening athkar (Arabic)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_ar.mp3",
-        "bytes": 15284
+        "bytes": 32877
       },
       "android": {
         "bytes": 32877
@@ -3244,10 +3244,10 @@
       "titleEn": "Evening athkar (English)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_en.mp3",
-        "bytes": 17419
+        "bytes": 47482
       },
       "android": {
         "bytes": 47482
@@ -3263,10 +3263,10 @@
       "titleEn": "Evening athkar (Persian)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_fa.mp3",
-        "bytes": 16941
+        "bytes": 67053
       },
       "android": {
         "bytes": 67053
@@ -3282,10 +3282,10 @@
       "titleEn": "Evening athkar (French)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_fr.mp3",
-        "bytes": 20606
+        "bytes": 44974
       },
       "android": {
         "bytes": 44974
@@ -3301,10 +3301,10 @@
       "titleEn": "Evening athkar (Indonesian)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_id.mp3",
-        "bytes": 32151
+        "bytes": 82173
       },
       "android": {
         "bytes": 82173
@@ -3320,10 +3320,10 @@
       "titleEn": "Evening athkar (Russian)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_ru.mp3",
-        "bytes": 39213
+        "bytes": 39597
       },
       "android": {
         "bytes": 39597
@@ -3339,10 +3339,10 @@
       "titleEn": "Evening athkar (Turkish)",
       "type": "evening_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/evenning_azkar_1_tr.mp3",
-        "bytes": 17732
+        "bytes": 31533
       },
       "android": {
         "bytes": 31533
@@ -3358,10 +3358,10 @@
       "titleEn": "White days fasting (Arabic)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_ar.mp3",
-        "bytes": 17156
+        "bytes": 39405
       },
       "android": {
         "bytes": 39405
@@ -3377,10 +3377,10 @@
       "titleEn": "White days fasting (English)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_en.mp3",
-        "bytes": 24347
+        "bytes": 63782
       },
       "android": {
         "bytes": 63782
@@ -3396,10 +3396,10 @@
       "titleEn": "White days fasting (Persian)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_fa.mp3",
-        "bytes": 16653
+        "bytes": 65901
       },
       "android": {
         "bytes": 65901
@@ -3415,10 +3415,10 @@
       "titleEn": "White days fasting (French)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_fr.mp3",
-        "bytes": 23960
+        "bytes": 55423
       },
       "android": {
         "bytes": 55423
@@ -3434,10 +3434,10 @@
       "titleEn": "White days fasting (Indonesian)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_id.mp3",
-        "bytes": 32097
+        "bytes": 80083
       },
       "android": {
         "bytes": 80083
@@ -3453,10 +3453,10 @@
       "titleEn": "White days fasting (Russian)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_ru.mp3",
-        "bytes": 32109
+        "bytes": 32493
       },
       "android": {
         "bytes": 32493
@@ -3472,10 +3472,10 @@
       "titleEn": "White days fasting (Turkish)",
       "type": "fast_white",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/fasting_white_1_tr.mp3",
-        "bytes": 20588
+        "bytes": 33453
       },
       "android": {
         "bytes": 33453
@@ -3491,10 +3491,10 @@
       "titleEn": "Monday fasting (Arabic)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_ar.mp3",
-        "bytes": 17060
+        "bytes": 39405
       },
       "android": {
         "bytes": 39405
@@ -3510,10 +3510,10 @@
       "titleEn": "Monday fasting (English)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_en.mp3",
-        "bytes": 19949
+        "bytes": 51244
       },
       "android": {
         "bytes": 51244
@@ -3529,10 +3529,10 @@
       "titleEn": "Monday fasting (Persian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_fa.mp3",
-        "bytes": 11565
+        "bytes": 45549
       },
       "android": {
         "bytes": 45549
@@ -3548,10 +3548,10 @@
       "titleEn": "Monday fasting (French)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_fr.mp3",
-        "bytes": 20057
+        "bytes": 45810
       },
       "android": {
         "bytes": 45810
@@ -3567,10 +3567,10 @@
       "titleEn": "Monday fasting (Indonesian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_id.mp3",
-        "bytes": 32487
+        "bytes": 82173
       },
       "android": {
         "bytes": 82173
@@ -3586,10 +3586,10 @@
       "titleEn": "Monday fasting (Russian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_ru.mp3",
-        "bytes": 32301
+        "bytes": 32685
       },
       "android": {
         "bytes": 32685
@@ -3605,10 +3605,10 @@
       "titleEn": "Monday fasting (Turkish)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/mondayFasting_1_tr.mp3",
-        "bytes": 18956
+        "bytes": 31533
       },
       "android": {
         "bytes": 31533
@@ -3624,10 +3624,10 @@
       "titleEn": "Thursday fasting (Arabic)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_ar.mp3",
-        "bytes": 16340
+        "bytes": 31341
       },
       "android": {
         "bytes": 31341
@@ -3643,10 +3643,10 @@
       "titleEn": "Thursday fasting (English)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_en.mp3",
-        "bytes": 19404
+        "bytes": 48736
       },
       "android": {
         "bytes": 48736
@@ -3662,10 +3662,10 @@
       "titleEn": "Thursday fasting (Persian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_fa.mp3",
-        "bytes": 13485
+        "bytes": 53229
       },
       "android": {
         "bytes": 53229
@@ -3681,10 +3681,10 @@
       "titleEn": "Thursday fasting (French)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_fr.mp3",
-        "bytes": 18703
+        "bytes": 40795
       },
       "android": {
         "bytes": 40795
@@ -3700,10 +3700,10 @@
       "titleEn": "Thursday fasting (Indonesian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_id.mp3",
-        "bytes": 32514
+        "bytes": 78411
       },
       "android": {
         "bytes": 78411
@@ -3719,10 +3719,10 @@
       "titleEn": "Thursday fasting (Russian)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_ru.mp3",
-        "bytes": 30765
+        "bytes": 31149
       },
       "android": {
         "bytes": 31149
@@ -3738,10 +3738,10 @@
       "titleEn": "Thursday fasting (Turkish)",
       "type": "fast_mon_thu",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/thursdayFasting_1_tr.mp3",
-        "bytes": 17108
+        "bytes": 27501
       },
       "android": {
         "bytes": 27501
@@ -3757,10 +3757,10 @@
       "titleEn": "Quran reading reminder (Arabic)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_ar.mp3",
-        "bytes": 13508
+        "bytes": 27501
       },
       "android": {
         "bytes": 27501
@@ -3776,10 +3776,10 @@
       "titleEn": "Quran reading reminder (English)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_en.mp3",
-        "bytes": 21527
+        "bytes": 54169
       },
       "android": {
         "bytes": 54169
@@ -3795,10 +3795,10 @@
       "titleEn": "Quran reading reminder (Persian)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_fa.mp3",
-        "bytes": 13389
+        "bytes": 52845
       },
       "android": {
         "bytes": 52845
@@ -3814,10 +3814,10 @@
       "titleEn": "Quran reading reminder (French)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_fr.mp3",
-        "bytes": 23783
+        "bytes": 50408
       },
       "android": {
         "bytes": 50408
@@ -3833,10 +3833,10 @@
       "titleEn": "Quran reading reminder (Indonesian)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_id.mp3",
-        "bytes": 19802
+        "bytes": 42884
       },
       "android": {
         "bytes": 42884
@@ -3852,10 +3852,10 @@
       "titleEn": "Quran reading reminder (Russian)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_ru.mp3",
-        "bytes": 19271
+        "bytes": 19662
       },
       "android": {
         "bytes": 19662
@@ -3871,10 +3871,10 @@
       "titleEn": "Quran reading reminder (Turkish)",
       "type": "kahf_reminder",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/quran_1_tr.mp3",
-        "bytes": 14204
+        "bytes": 23853
       },
       "android": {
         "bytes": 23853
@@ -3890,10 +3890,10 @@
       "titleEn": "Iqama clock tone",
       "type": "eqama",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/iqama_clock3.mp3",
-        "bytes": 103244
+        "bytes": 41325
       },
       "android": {
         "bytes": 41325
@@ -3909,10 +3909,10 @@
       "titleEn": "Sleep athkar (Short)",
       "type": "sleep_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/sleeping.mp3",
-        "bytes": 52822
+        "bytes": 31356
       },
       "android": {
         "bytes": 31260
@@ -3928,10 +3928,10 @@
       "titleEn": "Sleep athkar (Full)",
       "type": "sleep_athkar",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/sleepingFull.mp3",
-        "bytes": 46663
+        "bytes": 93005
       },
       "android": {
         "bytes": 92909
@@ -3947,7 +3947,7 @@
       "titleEn": "Default tone",
       "type": "default_tone",
       "parts": 1,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "notifications/default_tone.mp3",
         "bytes": 17389
@@ -3966,16 +3966,16 @@
       "titleEn": "Makkah Fajr Adhan 2 (Full)",
       "type": "adhan_fajr",
       "parts": 9,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "fajr_mecca_2.mp3",
-        "bytes": 761441
+        "bytes": 2029869
       },
       "android": {
         "bytes": 2031765
       },
       "ios": {
-        "bytes": 3008090
+        "bytes": 3008226
       }
     },
     {
@@ -3985,16 +3985,16 @@
       "titleEn": "Makkah Adhan 2 (Full)",
       "type": "adhan",
       "parts": 8,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "mecca.mp3",
-        "bytes": 410012
+        "bytes": 819632
       },
       "android": {
         "bytes": 821120
       },
       "ios": {
-        "bytes": 2431502
+        "bytes": 2431536
       }
     },
     {
@@ -4004,10 +4004,10 @@
       "titleEn": "Long takbeer, low volume (Full)",
       "type": "adhan",
       "parts": 4,
-      "rev": 1,
+      "rev": 2,
       "preview": {
         "url": "longTakbiratLowVolume.mp3",
-        "bytes": 366956
+        "bytes": 1467117
       },
       "android": {
         "bytes": 1467828

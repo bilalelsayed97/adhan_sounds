@@ -1282,7 +1282,8 @@
       "fileName": "salahNaby_1_ar",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (إنجليزي)",
@@ -1294,7 +1295,8 @@
       "fileName": "salahNaby_1_en",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (فارسي)",
@@ -1306,7 +1308,8 @@
       "fileName": "salahNaby_1_fa",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (فرنسي)",
@@ -1318,7 +1321,8 @@
       "fileName": "salahNaby_1_fr",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (إندونيسي)",
@@ -1330,7 +1334,8 @@
       "fileName": "salahNaby_1_id",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (روسي)",
@@ -1342,7 +1347,8 @@
       "fileName": "salahNaby_1_ru",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي (تركي)",
@@ -1354,7 +1360,8 @@
       "fileName": "salahNaby_1_tr",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (عربي)",
@@ -1366,7 +1373,8 @@
       "fileName": "salahNaby_m_1_ar",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (إنجليزي)",
@@ -1378,7 +1386,8 @@
       "fileName": "salahNaby_m_1_en",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (فارسي)",
@@ -1390,7 +1399,8 @@
       "fileName": "salahNaby_m_1_fa",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (فرنسي)",
@@ -1402,7 +1412,8 @@
       "fileName": "salahNaby_m_1_fr",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (إندونيسي)",
@@ -1414,7 +1425,8 @@
       "fileName": "salahNaby_m_1_id",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (روسي)",
@@ -1426,7 +1438,8 @@
       "fileName": "salahNaby_m_1_ru",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الصلاة على النبي بصوت رجالي (تركي)",
@@ -1438,7 +1451,8 @@
       "fileName": "salahNaby_m_1_tr",
       "count": 1,
       "type": "salah_nabi_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (عربي)",
@@ -1450,7 +1464,8 @@
       "fileName": "doha_1_ar",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (إنجليزي)",
@@ -1462,7 +1477,8 @@
       "fileName": "doha_1_en",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (فارسي)",
@@ -1474,7 +1490,8 @@
       "fileName": "doha_1_fa",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (فرنسي)",
@@ -1486,7 +1503,8 @@
       "fileName": "doha_1_fr",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (إندونيسي)",
@@ -1498,7 +1516,8 @@
       "fileName": "doha_1_id",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (روسي)",
@@ -1510,7 +1529,8 @@
       "fileName": "doha_1_ru",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير الضحى (تركي)",
@@ -1522,7 +1542,8 @@
       "fileName": "doha_1_tr",
       "count": 1,
       "type": "duha_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (عربي)",
@@ -1534,7 +1555,8 @@
       "fileName": "before_shorouq_1_ar",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (إنجليزي)",
@@ -1546,7 +1568,8 @@
       "fileName": "before_shorouq_1_en",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (فارسي)",
@@ -1558,7 +1581,8 @@
       "fileName": "before_shorouq_1_fa",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (فرنسي)",
@@ -1570,7 +1594,8 @@
       "fileName": "before_shorouq_1_fr",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (إندونيسي)",
@@ -1582,7 +1607,8 @@
       "fileName": "before_shorouq_1_id",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (روسي)",
@@ -1594,7 +1620,8 @@
       "fileName": "before_shorouq_1_ru",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "قبل الشروق (تركي)",
@@ -1606,7 +1633,8 @@
       "fileName": "before_shorouq_1_tr",
       "count": 1,
       "type": "before_shurooq",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (عربي)",
@@ -1618,7 +1646,8 @@
       "fileName": "before_zohr_1_ar",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (إنجليزي)",
@@ -1630,7 +1659,8 @@
       "fileName": "before_zohr_1_en",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (فارسي)",
@@ -1642,7 +1672,8 @@
       "fileName": "before_zohr_1_fa",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (فرنسي)",
@@ -1654,7 +1685,8 @@
       "fileName": "before_zohr_1_fr",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (إندونيسي)",
@@ -1666,7 +1698,8 @@
       "fileName": "before_zohr_1_id",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (روسي)",
@@ -1678,7 +1711,8 @@
       "fileName": "before_zohr_1_ru",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "الظهر قريباً (تركي)",
@@ -1690,7 +1724,8 @@
       "fileName": "before_zohr_1_tr",
       "count": 1,
       "type": "dhuhr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (عربي)",
@@ -1702,7 +1737,8 @@
       "fileName": "before_asr_1_ar",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (إنجليزي)",
@@ -1714,7 +1750,8 @@
       "fileName": "before_asr_1_en",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (فارسي)",
@@ -1726,7 +1763,8 @@
       "fileName": "before_asr_1_fa",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (فرنسي)",
@@ -1738,7 +1776,8 @@
       "fileName": "before_asr_1_fr",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (إندونيسي)",
@@ -1750,7 +1789,8 @@
       "fileName": "before_asr_1_id",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (روسي)",
@@ -1762,7 +1802,8 @@
       "fileName": "before_asr_1_ru",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العصر قريباً (تركي)",
@@ -1774,7 +1815,8 @@
       "fileName": "before_asr_1_tr",
       "count": 1,
       "type": "asr_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (عربي)",
@@ -1786,7 +1828,8 @@
       "fileName": "before_maghreb_1_ar",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (إنجليزي)",
@@ -1798,7 +1841,8 @@
       "fileName": "before_maghreb_1_en",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (فارسي)",
@@ -1810,7 +1854,8 @@
       "fileName": "before_maghreb_1_fa",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (فرنسي)",
@@ -1822,7 +1867,8 @@
       "fileName": "before_maghreb_1_fr",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (إندونيسي)",
@@ -1834,7 +1880,8 @@
       "fileName": "before_maghreb_1_id",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (روسي)",
@@ -1846,7 +1893,8 @@
       "fileName": "before_maghreb_1_ru",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "المغرب قريباً (تركي)",
@@ -1858,7 +1906,8 @@
       "fileName": "before_maghreb_1_tr",
       "count": 1,
       "type": "maghrib_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (عربي)",
@@ -1870,7 +1919,8 @@
       "fileName": "before_esha_1_ar",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (إنجليزي)",
@@ -1882,7 +1932,8 @@
       "fileName": "before_esha_1_en",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (فارسي)",
@@ -1894,7 +1945,8 @@
       "fileName": "before_esha_1_fa",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (فرنسي)",
@@ -1906,7 +1958,8 @@
       "fileName": "before_esha_1_fr",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (إندونيسي)",
@@ -1918,7 +1971,8 @@
       "fileName": "before_esha_1_id",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (روسي)",
@@ -1930,7 +1984,8 @@
       "fileName": "before_esha_1_ru",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "العشاء قريباً (تركي)",
@@ -1942,7 +1997,8 @@
       "fileName": "before_esha_1_tr",
       "count": 1,
       "type": "isha_soon",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (عربي)",
@@ -1954,7 +2010,8 @@
       "fileName": "saba7_1_ar",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (إنجليزي)",
@@ -1966,7 +2023,8 @@
       "fileName": "saba7_1_en",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (فارسي)",
@@ -1978,7 +2036,8 @@
       "fileName": "saba7_1_fa",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (فرنسي)",
@@ -1990,7 +2049,8 @@
       "fileName": "saba7_1_fr",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (إندونيسي)",
@@ -2002,7 +2062,8 @@
       "fileName": "saba7_1_id",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (روسي)",
@@ -2014,7 +2075,8 @@
       "fileName": "saba7_1_ru",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار الصباح (تركي)",
@@ -2026,7 +2088,8 @@
       "fileName": "saba7_1_tr",
       "count": 1,
       "type": "morning_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (عربي)",
@@ -2038,7 +2101,8 @@
       "fileName": "evenning_azkar_1_ar",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (إنجليزي)",
@@ -2050,7 +2114,8 @@
       "fileName": "evenning_azkar_1_en",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (فارسي)",
@@ -2062,7 +2127,8 @@
       "fileName": "evenning_azkar_1_fa",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (فرنسي)",
@@ -2074,7 +2140,8 @@
       "fileName": "evenning_azkar_1_fr",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (إندونيسي)",
@@ -2086,7 +2153,8 @@
       "fileName": "evenning_azkar_1_id",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (روسي)",
@@ -2098,7 +2166,8 @@
       "fileName": "evenning_azkar_1_ru",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار المساء (تركي)",
@@ -2110,7 +2179,8 @@
       "fileName": "evenning_azkar_1_tr",
       "count": 1,
       "type": "evening_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (عربي)",
@@ -2122,7 +2192,8 @@
       "fileName": "fasting_white_1_ar",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (إنجليزي)",
@@ -2134,7 +2205,8 @@
       "fileName": "fasting_white_1_en",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (فارسي)",
@@ -2146,7 +2218,8 @@
       "fileName": "fasting_white_1_fa",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (فرنسي)",
@@ -2158,7 +2231,8 @@
       "fileName": "fasting_white_1_fr",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (إندونيسي)",
@@ -2170,7 +2244,8 @@
       "fileName": "fasting_white_1_id",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (روسي)",
@@ -2182,7 +2257,8 @@
       "fileName": "fasting_white_1_ru",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام الأيام البيض (تركي)",
@@ -2194,7 +2270,8 @@
       "fileName": "fasting_white_1_tr",
       "count": 1,
       "type": "fast_white",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (عربي)",
@@ -2206,7 +2283,8 @@
       "fileName": "mondayFasting_1_ar",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (إنجليزي)",
@@ -2218,7 +2296,8 @@
       "fileName": "mondayFasting_1_en",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (فارسي)",
@@ -2230,7 +2309,8 @@
       "fileName": "mondayFasting_1_fa",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (فرنسي)",
@@ -2242,7 +2322,8 @@
       "fileName": "mondayFasting_1_fr",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (إندونيسي)",
@@ -2254,7 +2335,8 @@
       "fileName": "mondayFasting_1_id",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (روسي)",
@@ -2266,7 +2348,8 @@
       "fileName": "mondayFasting_1_ru",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الاثنين (تركي)",
@@ -2278,7 +2361,8 @@
       "fileName": "mondayFasting_1_tr",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (عربي)",
@@ -2290,7 +2374,8 @@
       "fileName": "thursdayFasting_1_ar",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (إنجليزي)",
@@ -2302,7 +2387,8 @@
       "fileName": "thursdayFasting_1_en",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (فارسي)",
@@ -2314,7 +2400,8 @@
       "fileName": "thursdayFasting_1_fa",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (فرنسي)",
@@ -2326,7 +2413,8 @@
       "fileName": "thursdayFasting_1_fr",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (إندونيسي)",
@@ -2338,7 +2426,8 @@
       "fileName": "thursdayFasting_1_id",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (روسي)",
@@ -2350,7 +2439,8 @@
       "fileName": "thursdayFasting_1_ru",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "صيام يوم الخميس (تركي)",
@@ -2362,7 +2452,8 @@
       "fileName": "thursdayFasting_1_tr",
       "count": 1,
       "type": "fast_mon_thu",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (عربي)",
@@ -2374,7 +2465,8 @@
       "fileName": "quran_1_ar",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (إنجليزي)",
@@ -2386,7 +2478,8 @@
       "fileName": "quran_1_en",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (فارسي)",
@@ -2398,7 +2491,8 @@
       "fileName": "quran_1_fa",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (فرنسي)",
@@ -2410,7 +2504,8 @@
       "fileName": "quran_1_fr",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (إندونيسي)",
@@ -2422,7 +2517,8 @@
       "fileName": "quran_1_id",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (روسي)",
@@ -2434,7 +2530,8 @@
       "fileName": "quran_1_ru",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تذكير قراءة القرآن (تركي)",
@@ -2446,7 +2543,8 @@
       "fileName": "quran_1_tr",
       "count": 1,
       "type": "kahf_reminder",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "نغمة ساعة الإقامة",
@@ -2458,7 +2556,8 @@
       "fileName": "iqama_clock3",
       "count": 1,
       "type": "eqama",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار النوم (قصير)",
@@ -2470,7 +2569,8 @@
       "fileName": "sleeping",
       "count": 1,
       "type": "sleep_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذكار النوم (كامل)",
@@ -2482,7 +2582,8 @@
       "fileName": "sleepingFull",
       "count": 1,
       "type": "sleep_athkar",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "النغمة الافتراضية",
@@ -2494,7 +2595,8 @@
       "fileName": "default_tone",
       "count": 1,
       "type": "default_tone",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذان الفجر: مكة المكرمة 2 (كامل)",
@@ -2506,7 +2608,8 @@
       "fileName": "fajr_mecca_2",
       "count": 9,
       "type": "adhan_fajr",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "أذان مكة المكرمة 2 (كامل)",
@@ -2518,7 +2621,8 @@
       "fileName": "mecca",
       "count": 8,
       "type": "adhan",
-      "available": true
+      "available": true,
+      "rev": 2
     },
     {
       "titleAr": "تكبيرات طويلة بصوت منخفض (كامل)",
@@ -2530,7 +2634,8 @@
       "fileName": "longTakbiratLowVolume",
       "count": 4,
       "type": "adhan",
-      "available": true
+      "available": true,
+      "rev": 2
     }
   ]
 }
